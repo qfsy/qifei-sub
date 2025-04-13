@@ -1,1 +1,1446 @@
-const a0_0x1c7625=a0_0x1b28,a0_0xc042fa=a0_0x5cab;(function(_0x3157a2,_0x25d6a2){const _0x58a5a6=a0_0x5cab,_0x3e196c=a0_0x1b28,_0x616480=_0x3157a2();while(!![]){try{const _0x1acec7=parseInt(_0x3e196c(0x1d8))/0x1+-parseInt(_0x58a5a6(0x248,'VnVH'))/0x2+-parseInt(_0x3e196c(0x254))/0x3*(-parseInt(_0x58a5a6(0x2d8,'MWkF'))/0x4)+parseInt(_0x58a5a6(0x279,'kLLp'))/0x5*(-parseInt(_0x58a5a6(0x2b3,'C9s1'))/0x6)+parseInt(_0x58a5a6(0x2e1,'UZRD'))/0x7+-parseInt(_0x58a5a6(0x1b6,'C9s1'))/0x8+parseInt(_0x58a5a6(0x1b3,'O$g$'))/0x9;if(_0x1acec7===_0x25d6a2)break;else _0x616480['push'](_0x616480['shift']());}catch(_0x2be6c9){_0x616480['push'](_0x616480['shift']());}}}(a0_0x54dd,0xd6b86));let mytoken=['auto'],addresses=[a0_0xc042fa(0x204,'0)R#'),a0_0xc042fa(0x323,'eh]*')],addressesapi=[a0_0xc042fa(0x1eb,'R@0o')],addressesnotls=[a0_0xc042fa(0x2df,'e3qV'),'www.wto.org:8080#官方优选域名',a0_0xc042fa(0x1d6,'5UDI')],addressesnotlsapi=[a0_0x1c7625(0x1d0)],DLS=0x8,addressescsv=[],subconverter=a0_0xc042fa(0x26d,'JQJD'),subconfig='https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini',noTLS=a0_0xc042fa(0x2cb,'VnVH'),link,edgetunnel='ed',RproxyIP=a0_0x1c7625(0x1e3),proxyIPs=['proxyip.multacom.fxxk.dedyn.io','proxyip.vultr.fxxk.dedyn.io'],CMproxyIPs=[],socks5DataURL='',BotToken='',ChatID='',proxyhosts=[],proxyhostsURL=a0_0xc042fa(0x1f5,'lSXK'),EndPS='',协议类型=a0_0xc042fa(0x1cb,'CN0D'),FileName=a0_0xc042fa(0x281,'LLFx'),SUBUpdateTime=0x6,total=0x3e7,timestamp=0x3bb25e60800;function a0_0x5cab(_0x294b3e,_0x37d9f3){const _0x54ddeb=a0_0x54dd();return a0_0x5cab=function(_0x5cab30,_0x1fd67e){_0x5cab30=_0x5cab30-0x1a2;let _0x477782=_0x54ddeb[_0x5cab30];if(a0_0x5cab['GhvDuy']===undefined){var _0x5832be=function(_0x2e3dbe){const _0x1ac156='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2e50d4='',_0x21daae='';for(let _0x4cb96f=0x0,_0x165ddc,_0x288248,_0xc0e573=0x0;_0x288248=_0x2e3dbe['charAt'](_0xc0e573++);~_0x288248&&(_0x165ddc=_0x4cb96f%0x4?_0x165ddc*0x40+_0x288248:_0x288248,_0x4cb96f++%0x4)?_0x2e50d4+=String['fromCharCode'](0xff&_0x165ddc>>(-0x2*_0x4cb96f&0x6)):0x0){_0x288248=_0x1ac156['indexOf'](_0x288248);}for(let _0x547679=0x0,_0x3c3a96=_0x2e50d4['length'];_0x547679<_0x3c3a96;_0x547679++){_0x21daae+='%'+('00'+_0x2e50d4['charCodeAt'](_0x547679)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x21daae);};const _0x1b284d=function(_0x3d5800,_0x568d84){let _0x15b4e3=[],_0x575086=0x0,_0x24c65d,_0x10e97f='';_0x3d5800=_0x5832be(_0x3d5800);let _0x2c4b49;for(_0x2c4b49=0x0;_0x2c4b49<0x100;_0x2c4b49++){_0x15b4e3[_0x2c4b49]=_0x2c4b49;}for(_0x2c4b49=0x0;_0x2c4b49<0x100;_0x2c4b49++){_0x575086=(_0x575086+_0x15b4e3[_0x2c4b49]+_0x568d84['charCodeAt'](_0x2c4b49%_0x568d84['length']))%0x100,_0x24c65d=_0x15b4e3[_0x2c4b49],_0x15b4e3[_0x2c4b49]=_0x15b4e3[_0x575086],_0x15b4e3[_0x575086]=_0x24c65d;}_0x2c4b49=0x0,_0x575086=0x0;for(let _0x398ae2=0x0;_0x398ae2<_0x3d5800['length'];_0x398ae2++){_0x2c4b49=(_0x2c4b49+0x1)%0x100,_0x575086=(_0x575086+_0x15b4e3[_0x2c4b49])%0x100,_0x24c65d=_0x15b4e3[_0x2c4b49],_0x15b4e3[_0x2c4b49]=_0x15b4e3[_0x575086],_0x15b4e3[_0x575086]=_0x24c65d,_0x10e97f+=String['fromCharCode'](_0x3d5800['charCodeAt'](_0x398ae2)^_0x15b4e3[(_0x15b4e3[_0x2c4b49]+_0x15b4e3[_0x575086])%0x100]);}return _0x10e97f;};a0_0x5cab['cawOuN']=_0x1b284d,_0x294b3e=arguments,a0_0x5cab['GhvDuy']=!![];}const _0x28907e=_0x54ddeb[0x0],_0x5ecc65=_0x5cab30+_0x28907e,_0x556dc6=_0x294b3e[_0x5ecc65];return!_0x556dc6?(a0_0x5cab['dxgcIb']===undefined&&(a0_0x5cab['dxgcIb']=!![]),_0x477782=a0_0x5cab['cawOuN'](_0x477782,_0x1fd67e),_0x294b3e[_0x5ecc65]=_0x477782):_0x477782=_0x556dc6,_0x477782;},a0_0x5cab(_0x294b3e,_0x37d9f3);}const regex=/^(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|\[.*\]):?(\d+)?#?(.*)?$/;let fakeUserID,fakeHostName,httpsPorts=[a0_0xc042fa(0x2aa,'6j&4'),'2083',a0_0xc042fa(0x2d2,'O$g$'),a0_0x1c7625(0x213),a0_0x1c7625(0x2d7)],effectiveTime=0x7,updateTime=0x3;async function sendMessage(_0x288248,_0xc0e573,_0x547679=''){const _0x4e4af7=a0_0x1c7625,_0x84c473=a0_0xc042fa;if(BotToken!==''&&ChatID!==''){let _0x3c3a96='';const _0x3d5800=await fetch('http://ip-api.com/json/'+_0xc0e573+_0x84c473(0x308,'R@0o'));if(_0x3d5800[_0x4e4af7(0x2c4)]==0xc8){const _0x15b4e3=await _0x3d5800[_0x84c473(0x298,'kLLp')]();_0x3c3a96=_0x288248+_0x84c473(0x307,'#nCf')+_0xc0e573+_0x4e4af7(0x1a5)+_0x15b4e3[_0x84c473(0x200,'v^gO')]+_0x84c473(0x321,'!sVD')+_0x15b4e3['city']+_0x84c473(0x1b0,'3GI$')+_0x15b4e3['org']+_0x4e4af7(0x29e)+_0x15b4e3['as']+'\x0a'+_0x547679;}else _0x3c3a96=_0x288248+'\x0aIP:\x20'+_0xc0e573+_0x84c473(0x30b,'$UXY')+_0x547679;let _0x568d84=_0x4e4af7(0x23e)+BotToken+_0x4e4af7(0x215)+ChatID+_0x4e4af7(0x322)+encodeURIComponent(_0x3c3a96);return fetch(_0x568d84,{'method':_0x4e4af7(0x314),'headers':{'Accept':_0x4e4af7(0x1ae),'Accept-Encoding':_0x4e4af7(0x212),'User-Agent':_0x84c473(0x2a0,'3GI$')}});}}let MamaJustKilledAMan=['telegram','twitter','miaoko'],proxyIPPool=[];async function getAddressesapi(_0x575086){const _0xacda81=a0_0xc042fa,_0x30d5b8=a0_0x1c7625;if(!_0x575086||_0x575086['length']===0x0)return[];let _0x24c65d='';const _0x10e97f=new AbortController(),_0x2c4b49=setTimeout(()=>{const _0x33ed3a=a0_0x5cab;_0x10e97f[_0x33ed3a(0x2f6,'j#Sd')]();},0x3e8);try{const _0x320a89=await Promise[_0x30d5b8(0x2cd)](_0x575086[_0x30d5b8(0x29f)](_0x4cad73=>fetch(_0x4cad73,{'method':'get','headers':{'Accept':_0x30d5b8(0x1ae),'User-Agent':FileName+_0x30d5b8(0x286)},'signal':_0x10e97f[_0x30d5b8(0x2f4)]})[_0x30d5b8(0x2c0)](_0x8a5ae1=>_0x8a5ae1['ok']?_0x8a5ae1[_0x30d5b8(0x2f8)]():Promise[_0x30d5b8(0x1ca)]())));for(const [_0x13413d,_0x32f113]of _0x320a89[_0x30d5b8(0x1cd)]()){if(_0x32f113[_0x30d5b8(0x2c4)]===_0x30d5b8(0x1f8)){const _0x5147dd=await _0x32f113[_0x30d5b8(0x2d4)];_0x575086[_0x13413d]['includes'](_0xacda81(0x1f4,'R@0o'))&&(proxyIPPool=proxyIPPool[_0xacda81(0x238,'CtI9')]((await ADD(_0x5147dd))[_0xacda81(0x2d6,'Fz15')](_0x4e70c9=>{const _0x473d8d=_0x30d5b8,_0x405497=_0xacda81,_0x34ca5a=_0x4e70c9['split']('#')[0x0]||_0x4e70c9;if(_0x34ca5a[_0x405497(0x2e4,'j#Sd')](':')){const _0x14cad6=_0x34ca5a[_0x473d8d(0x22b)](':')[0x1];if(!httpsPorts[_0x473d8d(0x235)](_0x14cad6))return _0x34ca5a;}else return _0x34ca5a+':443';return null;})[_0x30d5b8(0x2c3)](Boolean))),_0x24c65d+=_0x5147dd+'\x0a';}}}catch(_0x4b5a45){console[_0x30d5b8(0x227)](_0x4b5a45);}finally{clearTimeout(_0x2c4b49);}const _0x398ae2=await ADD(_0x24c65d);return _0x398ae2;}function a0_0x54dd(){const _0x3e598f=['nmkibSoZ','hJ3dI8oUmY5GW5pcHtldOmkMAdNcKJ7cLowTSUAwV+s/MoMcRUwEIUwqMG','C2XPy2u','ndqWodeZzfHuuKL3','tmkzA2W','W41KzCk7yhG','W4FcL38iWRTl','WPykDdKCWQ3cTmohW6pdISk8e3BcM8kf','s8khD2RdTa','CSkSxIDvW5i','l3n1yJ90yxjNzxq9C3vYz2uMDMvYptqMDxjSpq','W4JdN8o+nLlcLq','W4/dMCo3medcLq','f8orwq','zMfSC2u','mJa1mG','W5pcSmk3','WO8NkG','W6dcHSoyamo9iq','Bg9N','WQBcHCofWP8','W4tdN8k9W6FdNra','ff/dRSo6CSoczCkcW6vbWProW6JcOg7dG8kMfSoGWRGAWQFcGL7dJx1sW5z6fSo7gSoZBqXcaM0MkCkSW7uQB8kuWPVcHGNdIq1GBgtdScJcJmoDASkKWPJcMrhcHe5UWONdUmo3vCkUzCoLWRmEngjmW7qebqDaWRajx8ohWPxdS8ouW7q','s0vz','WOzPq3jYiMypWPZdHq','WPvcW7BML5/KUPpNVQNLS7lLVPxPNRFNMQxLR7xMRly','nmksgCoXWQ4','W55RgSkxbaydW7aXW6DL','ywjVCNq','W6K2WQW','jMvTB2PPpxrYDwuMBgLZDd1MywXZzsz0zM89zMfSC2uMC2n2pxrYDwuMzMrUpwzHBhnLjNnVCNq9zMfSC2uMBMv3x25HBwu9Dhj1zq','dfNdTCoYEmkroSkqW6nsWPyf','kCoCkdpcISoEqGq8W4NdLCo9bcjnWQe7cmkXkajVyIpcSw1udmkyvCoZW7ddJItcPMzmW7ZcR2DuWQ5+W4BdKSosrqVdG8oZWRhdVSoeWPpdQqvHWQW7WRBcNSkaW5KFW6LTWPxdOKFcPa','reXt','WOWxW64Foau','zNvSzMLSBgvK','W6zyWQK','lmo8BmkuBW','W4ZcQ8kXW7dcPu3cUSoxW7NcQa','C3vIy29UDMvYDgvY','DxbSB2fKpq','AgfZ','WQHYW53cNM/dQSodqSk4W5/cQmkWq8ope8o3w8oBWPldLSkoW7NcRCoPvb/dUmodWOSBDCkbW5aEW4fWW7tcO8kKDLrSW783WQFdVuGnW5vnqbq6c8oVgCovW5vzWQu2WPlcIhPQWQ9ApM9ceJddQmo5zCkP','W48xWRddMCk5zsy','j8k0xt1v','quretK9utfm','ufjpwfLjua','W7RcJwRcHSkpWQ4dg8kkWPmndYaS5A2u5Pwx5l6d6ykJ5z6w5zcn','W67dJSkGbSo3WQuXWO3cSSojpSkcn1LhW4DnW4ZdJNdcImohFCoTsHOdW7ldThFdGCkeWQu1WR8JiwmqWRZdMLZcR0L3fcWbW6HFrMNdJ8oVicpdRJOAbNLfW7RdJabxWRHKW5hdJ8oidxjFd8oOAgJdUCosEmoxWRqmW6NcQ3pdM8oMz8kpcfNdNmozAL15WR/cNSoFnNP8CCkYWRzwW4/dUHhdO8o8j8oYzmkWsJrDWR7cH8opW4xcTKZdKCoYW64eW5vptW4','od8bW5BdTJLEbsdcGxy','W7KlWRddSq','CgfNzxmUzgv2','WQtcImo0sgq','s8kEFgRdVSkCW5VdPhtcSCosW5G','jMHVC3q9','Ahr0Chm6lY8','jMvTB2PPpxrYDwuMBgLZDd1MywXZzsz4DwrWpwzHBhnLjNvKCd1MywXZzsz0zM89zMfSC2uMzxHWyw5KpxrYDwuMC2n2pxrYDwuMzMrUpwzHBhnL','W7/cI2VcJSkqW6G','WPzKq3jsjvilWQ/dKhbH','b3ldM0S','WRlcISoQtMi','z3PPCcWGzgvMBgf0zsWGyNi','mJa5nG','W41Ho8kQhq8DW5OJW7fJW7a9W7iC','l3nLBMrnzxnZywDLp2nOyxrFAwq9','CSk0ucbjW5i','gCosWRfUW4VdKmkIW73cLSkMba','zgvJB2rL','u05j','c8orWPjUW44','W5/dLCoOirZcKCopqCoKWPpcM8kHvmo+emoBpZHeW7rdW53cMuVdGG','5yQB5P6V5PwM6zAHg8k0W7DJWQtdH8ka','W4ldNSoZouBcHCoguW','WRlcJ8oKrhLnumksW6BcH8kUWO4','BM90BhnYzxnWB25ZzujVzhK6ia','W6TFtG','h07dS8oM','ChjVEhLPCa','h0tdTmoPymkm','WP1Qna','WPeZkeb3','DmoUW7RdRr8','zxjYB3i','zMXVB3i','D29YA2vYCY5Kzxy','W6ilWRxdUq','C3bSAxq','hmozgCowlSkZrmkZWRtcGCkb','xSondxvLWQbcW5RcH8knx8kmW7SgyCkhW5JcGCoxEY3cJ8oiqCo0W4f4l1/cVd8ZW4qaWP93xmkVWP5zWOxdP20kWRjkBgSjlHqSmSoRW6JdSCocFY3dRCorFxpdJSktWPxcSmkjs8koWRRcSXJcTYZdLSkmlCk6WR9wBx7cQCogWOz7WOjVCmkEoSoeWQqUWPqDDSoIW4RdOJXsrmohtc7cP8oFg8kSWOxcQx42WOilW4WGl3iir8oxWR4pCmorvSo+W7blBGb+W4H3bmkYW4pcLSksWOm5DCool8kfu8knw0ddTYy3CrtcKYJdHCkjBSkgAtzRtSk8rmkMWOujWOWIzwbZW4qvmxtcRmo7lIi3WQpcVepcNhSbc3X+W6FcLXb2n14YyYtdJSoZWRGahsRcTCoyd8kvWQXkkSooq2VdS8oYW7FcP8kfW7ziW6ddPrxdSSkJWOuDWPaLcmkMWRLZW70mj30LW45iW6BcUJhcNSobWOf8W7iItSoVt8oaW6NdGCouWQBdN2xdHSkmdSkfW7pcNSk5zSkLlfW4wCoTtqa7bvumoSk1FGFdHSkRltvIfW3dIsldNSkhWOLWWRn0W7xdGgNcLmoXqSovWPmUDCotauVcVH4ApLhdUxlcHMBcG8kYgWlcH8kvBqy1W61sW6VcJXRdPmkwbSkzW77dJmkocrhcRWtdINBcTSoIW4hcVSoDWRtdJ8oxoCk3WQ/dRhbCW7vccgtcNM/cRmkTqCo/W5nFWRytemoOumo/e1WZgwtcGfndDZ5dr8kuW4RdQSoDWQhdVf1OWRRdO8k8WRWCWR3dMmkLzSkxa8oGW7OdW5lcG0RdUG95ow83k1T8jCk5W67dSNOhjmk5WRWBWPqzWQpdNJqJW5n4sCk5W7NcI8ogd8kEWQtcVdRdHG4bW4lcNGadWOFdJsRcHJxcQSoCyX3cIfJcVX3dThhdJ8ogWOrXW6NcKCkqWRrZemoSmGqHWOZdHIuvWOlcSrpdTHdcIepcQJ1PAmkNW53cMI3dI3lcRCk7jSkQW643aCoFbKfrd8owBmk4WOW3WO8AcCkcWOxdPSktymoXsSk7W7jPcmk/WPuVsCo5bmkfW70ICIRdN3dcPe7cOInIwJ0bWPddQGuUWRS4WR5TW47dMSoXB8oQWRz6D07cNhxcPui8WPpcTSotp8khWR1uW6PWDCkxW71VW7XTWQJcTSkfj8kfdmkbW7hdKa','WOzUpSo/W43dS1rt','W6CFWQ/dRHVdPmkQDa','Dhj1zq','WQJdK8kXaCkWWOi4','vvjm','W7i+WRhcO1dcISkn','tSouW53dHa','Aw5JBhvKzxm','W6FcKSoPvgiE','WQC8WQK','W51IBmk2yga','WReGsZe7','WQldM8o4e8kNWR81WPVcTmkhsmkilu4','WRhcMHpdOmkyDmoiuG','W7hcR0OZWRD6','k8kcbCoXWR/cHG','Ahr0Chm6lY9HCgKUDgvSzwDYyw0UB3jNl2jVDa','WRHKW4W0','WR0uWO4aWQJcJSoAvG','ur1pWR5jW6zgWPldJmoQW6ZcLSkena','DMXLC3m6lY8','Aw5KzxHpzG','WOJdGmk1W70','WQJcLmoLs2nhq8ke','sSkoBMxdSmkrW4G','vhjVAMfU','zeddMgTDWOP3wCo/W6CAzSkk','W7ZcU8oKpG','veDjra','AgvHzgvYCW','WOLRoSk6W6NcQwySj8kZ','6i635y+w5zYW5z2a5PE25yE66zszoG','WRX+W4K2','W69iWPddMCohrmkkEa','j8kVwcqmWOXKW7ZcQSoWBmojW6eBASksW5VdV8kSmIddL8kfwCkSWQrmDvBcTs0YW5yQW6mVwmoRWPHqWOZcUensWRHiB3uj','W5KIcmklW5NcRdPGAW','d8oet8oQba','Dg9tDhjPBMC','mtvmzurwquy','vvjmmZaY','tmkev1RdNSkHW5NdS2/cQ8oq','ChvZAa','W5L0i8koaa','W6FdIIS','WPbZtG','m8onlc/cMmkhca','W7ddJIVdRq','WPGDW6WEobjA','D29YA2vY','q0zqt1juuW','DhjPBq','pqBdRW','W5RcRCkIW6VcOG','W7pdG8k2fYuufmktW7lcMmkTWPFcGa','BMvRB2jVEa','W77dOSoC','BgvUz3rO','W49Qlmkieay','sCk5C8km','zNjVBq','qb4sWQvhW7Di','veLnrq','W5rIA8k7','BSkevmkJW4jxjvRcVgqJW5ldPCoRqx5OW7auW7W','actdN8kSmsjQWO4','WO3dVmkrW581WRO2hJldOG','C3rHDhvZvgv4Da','ignZW7W4','zxbLAxvZ','WPy0m0O','W6DSWO03WQxcPmoNWOa','u8onW5JdIZq','zMLUza','CtyYWPTPW4X0WR7dRSok','WPydArCq','aCoBEhRdKSkXW6BdGa','WOCOouH2W4W','wh7cJCoXChi3WRxcPbNdNmojcq','W5XLi8kseq','wXubWQvtW7biWOq','Ag9ZDg5HBwu','vxnLCI1bz2vUDa','C3rHCNrZv2L0Aa','p8ozj8ospmkKymkCWRdcGCkxra5WWPq','u09ds1m1refuqq','WRfkgq','d07dU8o4ySkqgSomW6vbWO4t','zwrNzxr1BM5LBa','ignTBgL1l1DVCMTLCLzSzxnZmNn1yG','se9tva','jMfSCg49Ahr0CcuYrJeUmszMCd1Yyw5KB21PEMvKjNr5Cgu9','eadcSafKFG','rxjYB3iGzMv0y2HPBMCGC3vIy29UDMvYDgvYvxjSoIa','WPBdGmkqW7ZdGKJdRfuCW7HJ','W4ZcQSkYW7dcVfS','z8kebSo6WQlcM2NcHSkbW5CAWO7cPNKvW4ddHfmMFMRdGa','W71IW5lcHwNdPG','bmoto8oElCk+','WRbtBJmbFW','WPddISk4W7RdH0JdVwi','WPeassC6WPlcRmoCW7NdGCk4','CgfKu3rHCNq','pwzZW7K','C3vIC3rY','WOyWgSkm','W5DJyCk5DhagWRC','uSkyCwC','Cgf0Ag5HBwu','C3vYz2u','dI/dIa','igLUDgvYDMfSptG2ndaWihn0CMLJDd1MywXZzq','W7OFWQW','cKfttJOG','BwfW','W4n4W4RcMgNdR8kFgCo/WOtdVCk2BmooeSoSc8oyW5ZcG8onWRlcU8kZbKtdTSkvW4rana','vmk/DCkoW6D6BK8','BNvSBa','WQi3W48M','W5BcMM4wWPTCsW','lNDVCMTLCNmUzgv2','y2HHCKf0','dSoFESkZtSkRt2W','AM9PBG','WQhcH8oaWPTH','WRnNW6RdTW','jt4UW5xdTdHjnq','FSk6cComiq','W4VcM8oPWPpcMcy','WQBdMmkH','WQ/cJ8oQsW','u8ooW5ZdJq','mSoensdcNa','rSkFxCkGeCkXuwqZWP3dR8kQWPG','WRGlW6WsWPpdKmooe1hdS8o/ca','W6dcI2tcM8khW6GNdCocW4bqsq','p2vUy3j5ChrPB249BM9UzszZzwn1CML0Et10BhmMC25Ppq','W4JcMNaDWO5x','DgvZDa','W4H0WOLXW6NcSmoYpvpdUG','vKXfu1m','WOTMWROcFSoNbG','iIWGDgzVpwzHBhnLlcb1zhaTCMvSyxK9zMfSC2u','W5GkWRZdLmkHEcPfirjlvG8','zgLNzxn0','Dgv4Dc9WBgfPBJSGy2HHCNnLDd11DgyToa','WPeKkSkFbaOdW5zT','DgHLBG','WQ4KWQRcPG3cKCkuDaRdHJ/cTfJcGCkvnt8ZkG/cKbS','otbMC0nds0e','zMLSDgvY','C3rHDhvZ','W6hcPSo7wCkSFq','gJ7dNCk0mtu','ioIUOUMyHEwzQowgHEE9RUIkGUEcUsa','mfhdS3aKExe','WOtdRCkahmkf','W4RcVmod','mbJcHcGl','zMhcUsye','ywXSu2v0DgXLza','W6aXWOVdVa','W6qBWR3dRW/dO8kiCrxcVCkrWPe','ChjVEhLPCd10CNvL','WPDGtgrEia','W6qFvCkB','rCotW4pdHYm','DMfSDwu','DhLWzq','WPRdVmkC','odq0mW','WQznW6VcRvtcSSoQuHdcSmk+WRFdHa','WQCwWOqpWRG','W40uWQK','W6KYWR7cOfFcL8kg','lsq5W5JdOJrbiY/cHIJdOuZcN8ozWP0mWQyflSk9WO9FW7WwW7ZdNgDQ','W6XDumkAwu0QWPq','vfLqrq','F3NcUMqbWQ3dOmkMk0BcSXiQrdJdUUwVJ+AuPUs/S+McGUwES+wrJW','z2v0vgLTzq','rc/cLWXhfbb8W5hcHfmEWPi','Dg9mB3DLCKnHC2u','WOX9WR0i','gGhcVq5WBKtdUG','jMfSCg49Ahr0CcuYrJeUmszMCd1Yyw5KB20MDhLWzt0','BgLUAZOG','WOmwW78ElbvAyG','WP7dS8kpgCkeW5hdK0e','ioACQUIUVUE9RU+8GE+8GE+8Gq','oYbKB3DUBg9Hzd0','omoKgSoHamkFzG','sSkkCg3dVSkF','kmogpY/cJmkacfG','mrZcNa','W4yxWQZdMq','oGldVCoTDNm5','W7e2WQVcRfZcHmkyyW','Dgv4Dc9ODg1SoYbJAgfYC2v0pvvurI04','W5GxWONdMmk6CI1IjG1p','C2LNBMfS','lNH5EG','eG3cSrbX','WRqOWPddMd/dMoITUUMyLq','Dgv4Da','WQv9W4K7aa','w8kJECkp','y29Uy2f0','lZ9Lzd0YntyW','CMfUzg9T','qureqvbj','W4O+r2qmFZDCW60','q0yTq29UBMvJDgLUzY1jua','m8kce8oIW6tcNIRcSmkhW4TkW4VcT0CyW5FdHevGmgRdLGBdRNG','Ag9ZDa','W7xcGMRcHSkw','y21SAxu','aYVcPa','W5lcNCoBhSo5pq','W5JcVSo8W4G1','q0FdU8oKzSofmmofWRPJWQ0','nr/dHsWbW48UwmoRW79rFSkRzG','WPBdSCkajSkuW4hdGL4jWPu','W4VdHSoYqdTqvSkyW73cN8kUWO7dQG','DxvPza','oI8V','m8kij8o5WRZcIZtcKSkpW5yu','vue6ia','C2vHCMnOugfYyw1Z','WR/dJmk0W6upWP0UkaVdHSkz','CgfZC3DVCMq','W5hcMSotgColjNvu','z2v0','quretK9utfnbueK','s8kBCMddPq','y2XHC2G','W5GkWQRdNCkSEwuoAa','qure','W58iWQNdNSk5','u1vcqvbj','fuxdUCoMDmkCl8oE','lZ9Lzd0YntyWjNbYB3H5Axa9','E2VcRdGuWQZdG8kMD0tcSqW','gJRdKmkPma','CZ8MWOP1W4i','W5WTW5q/smoGWPm/W55nW4FdSwdLN4RLUR7dHuC','jNbHCNnLx21Vzgu9sfrntcz0zxH0pq','n8kOxIffWOLTW6/cRmk4nmopW7uvy8ofWOxdQmo95l2F6ygm5A2J5PsC57Qs6lsL','WQ7dICkKW6m','WRnNW6FdTG','WPKDW70aoHLVCeNcQSkiW6m','WOhcR8kEfmkiW7VcMq','b3JdR1absfbuW77cV3G','cUwBVEwUTJOG','rxjYB3i6ia','W58mWQtdG8k4za','y2vPBa','mtm3mdG5mKj3Bejvvq','CMvWBgfJzq','WOSABbG','W5hcGmoOWOZcMtdcICk3','pCkQuJHuWOTKW70','Dgv4Dc9ODg1SlgfWCgXPy2f0Aw9Ul3HODg1Sk3HTBcXHChbSAwnHDgLVBI94BwW7','j8kOwdDe','WOtNU5pNUBFdIYu','rSonW57dHYm','W7W5WPBdPmkAwa1L','W6Cxw8kCWQNcJd91yCkBW7TKW7e','jNbHDgG9','WQBcN8oY','WROnW6GsWPldNmktpeVdRmo7cxi','WQvebmoCWRFdN2nLEmoyW4TlW5n3WOWlC8kmW4RdVSknWOfCqCogWODZAtmwwSolgCoNy8knW5FcTJFdRbrlW6vvwCkFFmovtLSaDZdcGmoqW4j4W6SYw0jRW7W+WO3dSSoTWOG','WPDvW6qznCoA','pYaHW5ddTq','tSkHESklW6y','W5FcMN8iWPLxFSobWQbVW63cUq','W6rOWOGwWRlcRCofWPxdMv3dQSoL','uSoaW5/dJd5L','W4VcUSkOW7ddV1BcMSoFW63dPXzxWPegWPJcHSoYW78IW4FdGsXEdG','W7vwWP/dNmog','WQv4W44/smoXWOWO','tuq1','y2yTD29YA2vYCY1ZDwi','aaRcVXbMyNhdQbpcVCknmq','jMLUC2vYDd1MywXZzszJB25MAwC9','zw5KC1DPDgG','vvvjra','W5RcU8k3W6hcPeVcGmoCW6tcSa','W5n0WR/cHSkceG','W4OuWQRdMmk/','CMvQzwn0','W73dVmovbMa','W6CPWPzOvSkJW5OYW5PpW6tdIq4','zw50CMLLCW','W59lWRzjW4FcHG','rKfmu0u','Ahr0Chm6lY9YyxCUz2L0AhvIDxnLCMnVBNrLBNqUy29Tl2nTBgL1l0ngy2rUvM1LC3mYC3vIl21HAw4VywrKCMvZC2vZyxbPlNr4Da','u1vcq09orKLh','C25Ppq','EM/cOY4yWQK','dCoej8owkW'];a0_0x54dd=function(){return _0x3e598f;};return a0_0x54dd();}async function getAddressescsv(_0xb60e8d){const _0x53cedf=a0_0x1c7625,_0x33ab7e=a0_0xc042fa;if(!addressescsv||addressescsv[_0x33ab7e(0x28f,'LLFx')]===0x0)return[];let _0x12c6f6=[];for(const _0x297732 of addressescsv){try{const _0xd0606=await fetch(_0x297732);if(!_0xd0606['ok']){console[_0x33ab7e(0x2d3,'MY1D')]('获取CSV地址时出错:',_0xd0606[_0x33ab7e(0x1a7,'v^gO')],_0xd0606[_0x53cedf(0x270)]);continue;}const _0x166f64=await _0xd0606[_0x53cedf(0x2f8)]();let _0x4ccb9a;_0x166f64['includes']('\x0d\x0a')?_0x4ccb9a=_0x166f64[_0x33ab7e(0x1ba,'JQJD')]('\x0d\x0a'):_0x4ccb9a=_0x166f64['split']('\x0a');const _0x2144ee=_0x4ccb9a[0x0][_0x33ab7e(0x2c9,'Fz15')](','),_0x44dc33=_0x2144ee[_0x53cedf(0x243)](_0x33ab7e(0x261,'5UDI')),_0xdb207a=0x0,_0x17a73f=0x1,_0x523a8b=_0x44dc33+0x1;if(_0x44dc33===-0x1){console[_0x33ab7e(0x262,'J#hF')](_0x33ab7e(0x1ee,'!sVD'));continue;}for(let _0x3b8235=0x1;_0x3b8235<_0x4ccb9a[_0x53cedf(0x266)];_0x3b8235++){const _0x1b2503=_0x4ccb9a[_0x3b8235][_0x53cedf(0x22b)](','),_0x44fd1e=_0x1b2503['length']-0x1;if(_0x1b2503[_0x44dc33]['toUpperCase']()===_0xb60e8d&&parseFloat(_0x1b2503[_0x44fd1e])>DLS){const _0x38482e=_0x1b2503[_0xdb207a],_0x52bbd4=_0x1b2503[_0x17a73f],_0x387fda=_0x1b2503[_0x523a8b],_0x36907a=_0x38482e+':'+_0x52bbd4+'#'+_0x387fda;_0x12c6f6[_0x53cedf(0x257)](_0x36907a),_0x297732[_0x33ab7e(0x31c,'R@0o')](_0x53cedf(0x2d0))&&_0x1b2503[_0x44dc33][_0x33ab7e(0x1f0,'jCz5')]()=='true'&&!httpsPorts[_0x33ab7e(0x1ad,'eh]*')](_0x52bbd4)&&proxyIPPool[_0x53cedf(0x257)](_0x38482e+':'+_0x52bbd4);}}}catch(_0x55b119){console[_0x33ab7e(0x1d4,'LLFx')]('获取CSV地址时出错:',_0x55b119);continue;}}return _0x12c6f6;}async function ADD(_0x1a3b57){const _0x5be333=a0_0x1c7625,_0x38e693=a0_0xc042fa;var _0x7b76a5=_0x1a3b57[_0x38e693(0x25b,'lSXK')](/[	|"'\r\n]+/g,',')[_0x38e693(0x246,'kLLp')](/,+/g,',');if(_0x7b76a5[_0x38e693(0x1db,'9zlt')](0x0)==',')_0x7b76a5=_0x7b76a5['slice'](0x1);if(_0x7b76a5[_0x5be333(0x2a6)](_0x7b76a5[_0x5be333(0x266)]-0x1)==',')_0x7b76a5=_0x7b76a5[_0x38e693(0x2b1,'lSXK')](0x0,_0x7b76a5[_0x5be333(0x266)]-0x1);let _0x5901f1=[];if(_0x7b76a5!='')_0x5901f1=_0x7b76a5[_0x5be333(0x22b)](',');return _0x5901f1;}async function nginx(){const _0x48c3ae=a0_0xc042fa,_0x404c4a=_0x48c3ae(0x22d,'eh]*');return _0x404c4a;}let protocol,socks5Data;export default{async 'fetch'(_0x5dc6ab,_0x4d113f){const _0x5d9056=a0_0x1c7625,_0x4709f4=a0_0xc042fa;if(_0x4d113f[_0x4709f4(0x226,'MY1D')])mytoken=await ADD(_0x4d113f[_0x4709f4(0x239,'IWuS')]);BotToken=_0x4d113f['TGTOKEN']||BotToken,ChatID=_0x4d113f[_0x5d9056(0x24a)]||ChatID,subconverter=_0x4d113f[_0x5d9056(0x31b)]||subconverter,subconfig=_0x4d113f[_0x5d9056(0x1d1)]||subconfig,FileName=_0x4d113f['SUBNAME']||FileName,socks5DataURL=_0x4d113f[_0x5d9056(0x282)]||socks5DataURL;if(_0x4d113f[_0x4709f4(0x2b8,'C9s1')])CMproxyIPs=await ADD(_0x4d113f[_0x4709f4(0x277,'pNXF')]);;if(_0x4d113f[_0x4709f4(0x2c8,'UZRD')])httpsPorts=await ADD(_0x4d113f[_0x5d9056(0x25f)]);EndPS=_0x4d113f['PS']||EndPS;const _0x816c74=_0x5dc6ab[_0x5d9056(0x24b)]['get'](_0x5d9056(0x27f)),_0x2db504=_0x816c74?_0x816c74[_0x5d9056(0x2e2)]():_0x4709f4(0x23f,'!sVD'),_0x5b39eb=new URL(_0x5dc6ab[_0x4709f4(0x25a,'7lJH')]),_0x2c54fc=_0x5b39eb['searchParams'][_0x4709f4(0x283,'O$g$')](_0x4709f4(0x1f7,'actn'))?_0x5b39eb[_0x4709f4(0x1bb,'9zlt')][_0x5d9056(0x314)]('format')['toLowerCase']():'null';let _0x322c74='',_0x380080='',_0x14c7ee='',_0x4e72ad='',_0x294f2b='ws',_0x3c6967=Math[_0x5d9056(0x228)]((timestamp-Date['now']())/timestamp*0x63*0x10000000000*0x400/0x2);if(_0x4d113f['UA'])MamaJustKilledAMan=MamaJustKilledAMan['concat'](await ADD(_0x4d113f['UA']));const _0x2859c3=new Date(),_0x424075=await MD5MD5(Math[_0x5d9056(0x1a8)](_0x2859c3['getTime']()));fakeUserID=_0x424075['slice'](0x0,0x8)+'-'+_0x424075[_0x5d9056(0x1d7)](0x8,0xc)+'-'+_0x424075[_0x4709f4(0x1dd,'kLLp')](0xc,0x10)+'-'+_0x424075[_0x5d9056(0x1d7)](0x10,0x14)+'-'+_0x424075[_0x4709f4(0x275,'MY1D')](0x14),fakeHostName=_0x424075[_0x5d9056(0x1d7)](0x6,0x9)+'.'+_0x424075[_0x5d9056(0x1d7)](0xd,0x13)+_0x5d9056(0x2f5),total=total*0x10000000000*0x400;let _0x46e86c=Math[_0x5d9056(0x228)](timestamp/0x3e8);link=_0x4d113f[_0x4709f4(0x2ce,'v^gO')]||link;if(_0x4d113f['ADD'])addresses=await ADD(_0x4d113f[_0x5d9056(0x319)]);if(_0x4d113f[_0x5d9056(0x2fe)])addressesapi=await ADD(_0x4d113f[_0x4709f4(0x1b8,'!sVD')]);if(_0x4d113f[_0x5d9056(0x202)])addressesnotls=await ADD(_0x4d113f['ADDNOTLS']);if(_0x4d113f[_0x4709f4(0x311,'V$Pq')])addressesnotlsapi=await ADD(_0x4d113f[_0x5d9056(0x315)]);if(_0x4d113f[_0x4709f4(0x320,'pNXF')])addressescsv=await ADD(_0x4d113f['ADDCSV']);DLS=_0x4d113f[_0x5d9056(0x1f6)]||DLS;if(socks5DataURL)try{const _0x1e6858=await fetch(socks5DataURL),_0x59b5f6=await _0x1e6858[_0x5d9056(0x2f8)]();_0x59b5f6[_0x5d9056(0x235)]('\x0d\x0a')?socks5Data=_0x59b5f6[_0x4709f4(0x258,'jCz5')]('\x0d\x0a')[_0x5d9056(0x2c3)](_0x3c97a8=>_0x3c97a8[_0x4709f4(0x2e3,'0gXF')]()!==''):socks5Data=_0x59b5f6[_0x5d9056(0x22b)]('\x0a')[_0x5d9056(0x2c3)](_0x4bc77c=>_0x4bc77c['trim']()!=='');}catch{socks5Data=null;}if(_0x4d113f[_0x4709f4(0x2eb,'LLFx')])proxyIPs=await ADD(_0x4d113f[_0x5d9056(0x203)]);if(mytoken[_0x4709f4(0x20e,'0)R#')]>0x0&&mytoken[_0x4709f4(0x1d5,'hRl6')](_0x18aee7=>_0x5b39eb[_0x5d9056(0x299)][_0x4709f4(0x240,'hNJC')](_0x18aee7))){_0x322c74=_0x4709f4(0x2af,'$UXY');if(_0x4d113f[_0x4709f4(0x2a3,'actn')]){const _0x192145=await ADD(_0x4d113f[_0x4709f4(0x249,'K*f^')]);_0x322c74=_0x192145[Math[_0x4709f4(0x1c9,'v^gO')](Math['random']()*_0x192145[_0x5d9056(0x266)])];}if(_0x4d113f[_0x4709f4(0x22e,'O$g$')])协议类型=_0x4709f4(0x1e7,'K*f^'),_0x380080=_0x4d113f[_0x4709f4(0x1b2,'v^gO')];else{协议类型=_0x5d9056(0x2b9);if(_0x4d113f[_0x4709f4(0x224,'O$g$')]){const _0x20f411=await generateDynamicUUID(_0x4d113f[_0x5d9056(0x1ec)]);_0x380080=_0x20f411[0x0],effectiveTime=_0x4d113f[_0x5d9056(0x26b)]||effectiveTime,updateTime=_0x4d113f[_0x4709f4(0x23c,'9zlt')]||updateTime;}else _0x380080=_0x4d113f['UUID']||_0x4709f4(0x294,'M$Q8');}_0x14c7ee=_0x4d113f[_0x4709f4(0x324,'V$Pq')]||_0x5d9056(0x2fc),_0x4e72ad=_0x4d113f[_0x5d9056(0x219)]||_0x322c74,_0x294f2b=_0x4d113f[_0x5d9056(0x2de)]||_0x294f2b,edgetunnel=_0x4d113f['ED']||edgetunnel,RproxyIP=_0x4d113f[_0x4709f4(0x2dd,'CtI9')]||RproxyIP;if(_0x322c74==_0x4709f4(0x207,'MWkF')||_0x380080=='null'){let _0x5bb2fe;if(_0x322c74==_0x5d9056(0x2a2)&&_0x380080=='null')_0x5bb2fe='HOST/UUID';else{if(_0x322c74==_0x4709f4(0x234,'MY1D'))_0x5bb2fe=_0x5d9056(0x287);else{if(_0x380080=='null')_0x5bb2fe=_0x5d9056(0x1c6);}}EndPS+=_0x5d9056(0x2c7)+_0x5bb2fe+_0x5d9056(0x2e9);}await sendMessage(_0x4709f4(0x2f7,'MWkF'),_0x5dc6ab[_0x4709f4(0x2db,'6j&4')]['get'](_0x5d9056(0x300)),_0x5d9056(0x30f)+_0x816c74+'</tg-spoiler>\x0a域名:\x20'+_0x5b39eb[_0x5d9056(0x27e)]+'\x0a<tg-spoiler>入口:\x20'+(_0x5b39eb[_0x4709f4(0x2f1,'6j&4')]+_0x5b39eb['search'])+_0x4709f4(0x2b2,'S*#D'));}else{_0x322c74=_0x5b39eb['searchParams'][_0x4709f4(0x1b5,'$UXY')](_0x5d9056(0x302)),_0x380080=_0x5b39eb[_0x5d9056(0x310)]['get'](_0x5d9056(0x30c))||_0x5b39eb['searchParams'][_0x5d9056(0x314)](_0x4709f4(0x22f,'MWkF'))||_0x5b39eb[_0x4709f4(0x284,'R@0o')][_0x4709f4(0x2ee,'VnVH')]('pw'),_0x14c7ee=_0x5b39eb[_0x4709f4(0x1bc,'u5TI')][_0x4709f4(0x259,'07%q')](_0x4709f4(0x25c,'07%q')),_0x4e72ad=_0x5b39eb['searchParams']['get']('sni')||_0x322c74,_0x294f2b=_0x5b39eb[_0x4709f4(0x31e,'e3qV')][_0x5d9056(0x314)](_0x5d9056(0x2d5))||_0x294f2b,edgetunnel=_0x5b39eb[_0x4709f4(0x2cf,'MWkF')][_0x5d9056(0x314)](_0x5d9056(0x285))||_0x5b39eb[_0x5d9056(0x310)][_0x5d9056(0x314)](_0x5d9056(0x272))||edgetunnel,RproxyIP=_0x5b39eb[_0x4709f4(0x2b4,'0)R#')][_0x4709f4(0x2ae,'!pnq')](_0x5d9056(0x222))||RproxyIP;if(_0x5b39eb[_0x4709f4(0x20f,'7lJH')]['has'](_0x4709f4(0x1c7,'J#hF'))||_0x5b39eb['searchParams']['has'](_0x4709f4(0x22a,'MWkF')))协议类型=_0x4709f4(0x1fa,'S*#D');else(_0x5b39eb[_0x4709f4(0x1c3,'j#Sd')][_0x4709f4(0x1f2,'6j&4')]('epeius')||_0x5b39eb[_0x4709f4(0x1a2,'actn')][_0x5d9056(0x1fe)](_0x5d9056(0x312))||_0x5b39eb['searchParams'][_0x5d9056(0x1fe)]('pw'))&&(协议类型=_0x4709f4(0x1ce,'C9s1'));if(!_0x5b39eb[_0x5d9056(0x299)][_0x5d9056(0x235)](_0x4709f4(0x296,'3WlZ'))){const _0x56c22a=_0x4d113f[_0x5d9056(0x255)]?_0x4709f4(0x2c5,'K*f^'):_0x4d113f[_0x5d9056(0x232)]?_0x4709f4(0x265,'CN0D'):null;if(_0x56c22a){const _0x18fe64=await ADD(_0x4d113f[_0x56c22a]),_0xc924df=_0x18fe64[Math['floor'](Math[_0x4709f4(0x2d1,'7lJH')]()*_0x18fe64[_0x5d9056(0x266)])];return _0x56c22a===_0x5d9056(0x255)?Response['redirect'](_0xc924df,0x12e):fetch(new Request(_0xc924df,_0x5dc6ab));}return new Response(await nginx(),{'headers':{'Content-Type':_0x4709f4(0x1be,'J#hF')}});}if(!_0x322c74||!_0x380080){const _0x4e3add='\x0a\x09\x09\x09缺少必填参数：host\x20和\x20uuid\x0a\x09\x09\x09Missing\x20required\x20parameters:\x20host\x20and\x20uuid\x0a\x09\x09\x09پارامترهای\x20ضروری\x20وارد\x20نشده:\x20هاست\x20و\x20یوآی‌دی\x0a\x09\x09\x09\x0a\x09\x09\x09'+_0x5b39eb['origin']+_0x4709f4(0x205,'!pnq');return new Response(_0x4e3add,{'status':0x190,'headers':{'content-type':_0x4709f4(0x301,'hRl6')}});}!_0x14c7ee||_0x14c7ee[_0x4709f4(0x273,'oc3p')]()===''?_0x14c7ee=_0x4709f4(0x2ff,'7lJH'):_0x14c7ee=_0x14c7ee[0x0]==='/'?_0x14c7ee:'/'+_0x14c7ee;}if(_0x322c74[_0x4709f4(0x1a4,'UZRD')]()[_0x4709f4(0x2e4,'j#Sd')](_0x4709f4(0x2cc,'e3qV'))||_0x322c74['toLowerCase']()[_0x4709f4(0x2e8,'Fz15')](_0x5d9056(0x25e))||_0x322c74[_0x5d9056(0x2e2)]()[_0x4709f4(0x21d,'CN0D')](_0x4709f4(0x2bc,'v^gO')))noTLS='true';noTLS=_0x4d113f['NOTLS']||noTLS;let _0x4f417b=generateFakeInfo(_0x5b39eb['href'],_0x380080,_0x322c74);if(!_0x2db504[_0x4709f4(0x21d,'CN0D')](_0x5d9056(0x1fc))&&MamaJustKilledAMan[_0x4709f4(0x2b0,'MY1D')](_0x4dc264=>_0x2db504[_0x5d9056(0x235)](_0x4dc264))&&MamaJustKilledAMan['length']>0x0){const _0x3cfc21=_0x4d113f[_0x4709f4(0x290,'7lJH')]?_0x4709f4(0x1c8,'8I%*'):_0x4d113f[_0x4709f4(0x305,'VnVH')]?_0x4709f4(0x220,'CtI9'):null;if(_0x3cfc21){const _0x2870eb=await ADD(_0x4d113f[_0x3cfc21]),_0x5577c0=_0x2870eb[Math[_0x4709f4(0x1c9,'v^gO')](Math['random']()*_0x2870eb['length'])];return _0x3cfc21==='URL302'?Response[_0x4709f4(0x291,'5I5y')](_0x5577c0,0x12e):fetch(new Request(_0x5577c0,_0x5dc6ab));}return new Response(await nginx(),{'headers':{'Content-Type':_0x5d9056(0x2f2)}});}else{if((_0x2db504['includes']('clash')||_0x2c54fc===_0x5d9056(0x317)&&!_0x2db504[_0x5d9056(0x235)]('subconverter'))&&!_0x2db504['includes'](_0x5d9056(0x264))&&!_0x2db504['includes'](_0x4709f4(0x309,'VnVH')))_0x4f417b=_0x5d9056(0x20c)+subconverter+_0x4709f4(0x2c1,'6j&4')+encodeURIComponent(_0x4f417b)+_0x5d9056(0x1c4)+encodeURIComponent(subconfig)+_0x4709f4(0x1ff,'3GI$');else{if((_0x2db504[_0x4709f4(0x245,'$UXY')](_0x4709f4(0x1c0,'!sVD'))||_0x2db504['includes'](_0x4709f4(0x2ba,'0gXF'))||_0x2c54fc===_0x4709f4(0x233,'6j&4')&&!_0x2db504[_0x4709f4(0x26e,'5UDI')](_0x4709f4(0x20a,'kLLp')))&&!_0x2db504[_0x5d9056(0x235)](_0x5d9056(0x1c2)))_0x4f417b='https://'+subconverter+'/sub?target=singbox&url='+encodeURIComponent(_0x4f417b)+_0x5d9056(0x1c4)+encodeURIComponent(subconfig)+_0x5d9056(0x1f3);else{if(_0x322c74['includes'](_0x5d9056(0x229))||_0x322c74[_0x5d9056(0x235)](_0x4709f4(0x251,'3WlZ'))){if(proxyhostsURL)try{const _0x6caece=await fetch(proxyhostsURL);if(!_0x6caece['ok']){console[_0x4709f4(0x209,'$UXY')]('获取地址时出错:',_0x6caece[_0x4709f4(0x2c6,'5UDI')],_0x6caece[_0x4709f4(0x26f,'V$Pq')]);return;}const _0x37399c=await _0x6caece['text'](),_0x9e1e0=_0x37399c[_0x5d9056(0x22b)]('\x0a'),_0x105862=_0x9e1e0[_0x5d9056(0x2c3)](_0x8b9f1f=>_0x8b9f1f[_0x5d9056(0x260)]()!=='');proxyhosts=proxyhosts[_0x5d9056(0x2fb)](_0x105862);}catch(_0x555903){console[_0x4709f4(0x209,'$UXY')](_0x5d9056(0x24d),_0x555903);}proxyhosts=[...new Set(proxyhosts)];}const _0x592e8b=await getAddressesapi(addressesapi),_0x45a3e7=await getAddressescsv('TRUE');addresses=addresses[_0x4709f4(0x223,'R@0o')](_0x592e8b),addresses=addresses['concat'](_0x45a3e7);const _0x5b838c=[...new Set(addresses)];let _0x14856e;if(noTLS==_0x4709f4(0x1d9,'kLLp')&&协议类型==_0x4709f4(0x1fa,'S*#D')){const _0x24dade=await getAddressesapi(addressesnotlsapi),_0x46218d=await getAddressescsv(_0x5d9056(0x1cf));addressesnotls=addressesnotls[_0x4709f4(0x289,'j#Sd')](_0x24dade),addressesnotls=addressesnotls[_0x4709f4(0x1e0,'CN0D')](_0x46218d);const _0x14eedd=[...new Set(addressesnotls)];_0x14856e=_0x14eedd[_0x4709f4(0x1e2,'S*#D')](_0xe2c3d=>{const _0x5cd5ae=_0x5d9056,_0x519509=_0x4709f4;let _0x8400b4='-1',_0x262c6f=_0xe2c3d;const _0x1156b5=_0x262c6f['match'](regex);if(!_0x1156b5){if(_0xe2c3d['includes'](':')&&_0xe2c3d[_0x519509(0x1ac,'xXte')]('#')){const _0x5866cf=_0xe2c3d[_0x519509(0x2ac,'oLp7')](':');_0xe2c3d=_0x5866cf[0x0];const _0x34f6c3=_0x5866cf[0x1]['split']('#');_0x8400b4=_0x34f6c3[0x0],_0x262c6f=_0x34f6c3[0x1];}else{if(_0xe2c3d['includes'](':')){const _0x162ac1=_0xe2c3d[_0x5cd5ae(0x22b)](':');_0xe2c3d=_0x162ac1[0x0],_0x8400b4=_0x162ac1[0x1];}else{if(_0xe2c3d[_0x5cd5ae(0x235)]('#')){const _0x29adaf=_0xe2c3d[_0x519509(0x271,'M$Q8')]('#');_0xe2c3d=_0x29adaf[0x0],_0x262c6f=_0x29adaf[0x1];}}}_0x262c6f['includes'](':')&&(_0x262c6f=_0x262c6f[_0x519509(0x201,'eh]*')](':')[0x0]);}else _0xe2c3d=_0x1156b5[0x1],_0x8400b4=_0x1156b5[0x2]||_0x8400b4,_0x262c6f=_0x1156b5[0x3]||_0xe2c3d;const _0x26e92e=['8080','8880',_0x5cd5ae(0x1e4),_0x519509(0x325,'6j&4'),'2086','2095'];if(!isValidIPv4(_0xe2c3d)&&_0x8400b4=='-1')for(let _0x43760 of _0x26e92e){if(_0xe2c3d['includes'](_0x43760)){_0x8400b4=_0x43760;break;}}if(_0x8400b4=='-1')_0x8400b4='80';if(edgetunnel[_0x5cd5ae(0x260)]()===_0x5cd5ae(0x304)&&RproxyIP['trim']()===_0x5cd5ae(0x230)){let _0x134849=_0x262c6f[_0x5cd5ae(0x2e2)](),_0x51d441=null;if(socks5Data){const _0x2e346c=getRandomProxyByMatch(_0x134849,socks5Data);_0x14c7ee='/'+_0x2e346c;}else{for(let _0x27ee2a of CMproxyIPs){if(_0x27ee2a[_0x5cd5ae(0x235)]('#')&&_0x27ee2a[_0x519509(0x1bf,'8I%*')]('#')[0x1]&&_0x134849[_0x5cd5ae(0x235)](_0x27ee2a['split']('#')[0x1]['toLowerCase']())){_0x51d441=_0x27ee2a[_0x519509(0x316,'kLLp')]('#')[0x0];break;}else{if(_0x27ee2a[_0x519509(0x2ed,'lSXK')](':')&&_0x27ee2a[_0x519509(0x211,'$UXY')](':')[0x1]&&_0x134849[_0x519509(0x2e7,'actn')](_0x27ee2a[_0x5cd5ae(0x22b)](':')[0x1][_0x5cd5ae(0x2e2)]())){_0x51d441=_0x27ee2a['split'](':')[0x0];break;}}}if(_0x51d441)_0x14c7ee=_0x5cd5ae(0x31d)+_0x51d441;else{const _0x4814bf=proxyIPs[Math['floor'](Math['random']()*proxyIPs[_0x5cd5ae(0x266)])];_0x14c7ee='/?ed=2560&proxyip='+_0x4814bf;}}}const _0x257e23=_0x5cd5ae(0x242)+_0x380080+'@'+_0xe2c3d+':'+_0x8400b4+'?encryption=none&security=&type='+_0x294f2b+_0x519509(0x236,'$UXY')+_0x322c74+_0x5cd5ae(0x1b4)+encodeURIComponent(_0x14c7ee)+'#'+encodeURIComponent(_0x262c6f+EndPS);return _0x257e23;})[_0x5d9056(0x2a8)]('\x0a');}const _0x484bde=_0x5b838c[_0x4709f4(0x1e6,'oc3p')](_0x41328e=>{const _0x2a8f9d=_0x5d9056,_0x551d27=_0x4709f4;let _0x2a68b0='-1',_0xdde966=_0x41328e;const _0x238c98=_0xdde966['match'](regex);if(!_0x238c98){if(_0x41328e['includes'](':')&&_0x41328e['includes']('#')){const _0x450d51=_0x41328e[_0x551d27(0x31a,'v^gO')](':');_0x41328e=_0x450d51[0x0];const _0x8d6273=_0x450d51[0x1]['split']('#');_0x2a68b0=_0x8d6273[0x0],_0xdde966=_0x8d6273[0x1];}else{if(_0x41328e[_0x551d27(0x24f,'8I%*')](':')){const _0x4a48c4=_0x41328e[_0x551d27(0x31f,'5UDI')](':');_0x41328e=_0x4a48c4[0x0],_0x2a68b0=_0x4a48c4[0x1];}else{if(_0x41328e[_0x2a8f9d(0x235)]('#')){const _0x20acfa=_0x41328e[_0x551d27(0x271,'M$Q8')]('#');_0x41328e=_0x20acfa[0x0],_0xdde966=_0x20acfa[0x1];}}}_0xdde966['includes'](':')&&(_0xdde966=_0xdde966[_0x2a8f9d(0x22b)](':')[0x0]);}else _0x41328e=_0x238c98[0x1],_0x2a68b0=_0x238c98[0x2]||_0x2a68b0,_0xdde966=_0x238c98[0x3]||_0x41328e;if(!isValidIPv4(_0x41328e)&&_0x2a68b0=='-1')for(let _0x46ef93 of httpsPorts){if(_0x41328e[_0x2a8f9d(0x235)](_0x46ef93)){_0x2a68b0=_0x46ef93;break;}}if(_0x2a68b0=='-1')_0x2a68b0=_0x551d27(0x2ca,'V$Pq');if(edgetunnel[_0x551d27(0x1e9,'#nCf')]()==='cmliu'&&RproxyIP['trim']()===_0x2a8f9d(0x230)){let _0x2efa64=_0xdde966[_0x551d27(0x22c,'LLFx')](),_0xf85f61=null;if(socks5Data){const _0xefd5e4=getRandomProxyByMatch(_0x2efa64,socks5Data);_0x14c7ee='/'+_0xefd5e4;}else{for(let _0x5e4e59 of CMproxyIPs){if(_0x5e4e59[_0x551d27(0x26e,'5UDI')]('#')&&_0x5e4e59[_0x2a8f9d(0x22b)]('#')[0x1]&&_0x2efa64[_0x551d27(0x240,'hNJC')](_0x5e4e59[_0x2a8f9d(0x22b)]('#')[0x1][_0x2a8f9d(0x2e2)]())){_0xf85f61=_0x5e4e59[_0x2a8f9d(0x22b)]('#')[0x0];break;}else{if(_0x5e4e59[_0x551d27(0x27d,'pNXF')](':')&&_0x5e4e59[_0x551d27(0x2ac,'oLp7')](':')[0x1]&&_0x2efa64['includes'](_0x5e4e59[_0x551d27(0x271,'M$Q8')](':')[0x1]['toLowerCase']())){_0xf85f61=_0x5e4e59['split'](':')[0x0];break;}}}const _0x365eb9=proxyIPPool[_0x2a8f9d(0x276)](_0xf4ca36=>_0xf4ca36[_0x2a8f9d(0x235)](_0x41328e));if(_0x365eb9)_0x14c7ee='/?ed=2560&proxyip='+_0x365eb9;else{if(_0xf85f61)_0x14c7ee=_0x2a8f9d(0x31d)+_0xf85f61;else{const _0x4b8f38=proxyIPs[Math[_0x551d27(0x21a,'NioF')](Math[_0x551d27(0x1d3,'e3qV')]()*proxyIPs['length'])];_0x14c7ee=_0x2a8f9d(0x31d)+_0x4b8f38;}}}}let _0x33ee1c=_0x322c74,_0x1bb9ff=_0x14c7ee,_0x392344=EndPS;proxyhosts&&(_0x322c74['includes'](_0x2a8f9d(0x2a5))||_0x322c74[_0x2a8f9d(0x235)](_0x2a8f9d(0x208)))&&(_0x1bb9ff='/'+_0x322c74+_0x14c7ee,_0x33ee1c=proxyhosts[Math[_0x2a8f9d(0x228)](Math[_0x2a8f9d(0x2fd)]()*proxyhosts[_0x2a8f9d(0x266)])],_0x392344=EndPS+'\x20已启用临时域名中转服务，请尽快绑定自定义域！',_0x4e72ad=_0x33ee1c);if(协议类型==_0x2a8f9d(0x247)){const _0x541b06=_0x551d27(0x318,'v^gO')+_0x380080+'@'+_0x41328e+':'+_0x2a68b0+'?security=tls&sni='+_0x4e72ad+_0x2a8f9d(0x288)+_0x294f2b+_0x2a8f9d(0x20b)+_0x33ee1c+_0x551d27(0x1ea,'5I5y')+encodeURIComponent(_0x1bb9ff)+'#'+encodeURIComponent(_0xdde966+_0x392344);return _0x541b06;}else{const _0x3c1ef7='vless://'+_0x380080+'@'+_0x41328e+':'+_0x2a68b0+_0x2a8f9d(0x2b5)+_0x4e72ad+_0x2a8f9d(0x2e5)+_0x294f2b+_0x551d27(0x1de,'eh]*')+_0x33ee1c+_0x551d27(0x216,'eh]*')+encodeURIComponent(_0x1bb9ff)+'#'+encodeURIComponent(_0xdde966+_0x392344);return _0x3c1ef7;}})[_0x4709f4(0x26c,'CtI9')]('\x0a');let _0xe16dc1=_0x484bde;if(link){const _0x38dcc4=await ADD(link),_0x4e0e48=(await getLink(_0x38dcc4))[_0x4709f4(0x244,'5I5y')]('\x0a');_0xe16dc1+='\x0a'+_0x4e0e48,console[_0x5d9056(0x1e8)](_0x5d9056(0x2e6)+_0x4e0e48);}_0x14856e&&noTLS=='true'&&(_0xe16dc1+='\x0a'+_0x14856e,console[_0x5d9056(0x1e8)](_0x5d9056(0x21f)+_0x14856e));if(协议类型==_0x5d9056(0x247)&&(_0x2db504[_0x4709f4(0x2a1,'JQJD')](_0x4709f4(0x1ef,'hRl6'))||_0x2c54fc===_0x5d9056(0x29a)&&!_0x2db504[_0x5d9056(0x235)](_0x5d9056(0x1fc)))&&!_0x2db504[_0x4709f4(0x297,'CtI9')](_0x4709f4(0x241,'pNXF'))){const _0x4f1832=_0xe16dc1[_0x5d9056(0x22b)]('\x0a'),_0x54e85c=generateFakeInfo(_0x4f1832[_0x5d9056(0x2a8)]('|'),_0x380080,_0x322c74);_0x4f417b='https://'+subconverter+_0x5d9056(0x1df)+encodeURIComponent(_0x54e85c)+_0x5d9056(0x1c4)+encodeURIComponent(subconfig)+_0x5d9056(0x20d);}else{let _0x444cc9;try{_0x444cc9=btoa(_0xe16dc1);}catch(_0x10e561){function _0x5de53c(_0x45c849){const _0x26be8b=_0x5d9056,_0x44942e=_0x4709f4,_0x19ca70=new TextEncoder()[_0x44942e(0x267,'jCz5')](_0x45c849);let _0x28f543='';const _0x35f096='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/';for(let _0x45a731=0x0;_0x45a731<_0x19ca70[_0x44942e(0x23d,'hRl6')];_0x45a731+=0x3){const _0x5e3f4d=_0x19ca70[_0x45a731],_0x161d08=_0x19ca70[_0x45a731+0x1]||0x0,_0x3ed7b5=_0x19ca70[_0x45a731+0x2]||0x0;_0x28f543+=_0x35f096[_0x5e3f4d>>0x2],_0x28f543+=_0x35f096[(_0x5e3f4d&0x3)<<0x4|_0x161d08>>0x4],_0x28f543+=_0x35f096[(_0x161d08&0xf)<<0x2|_0x3ed7b5>>0x6],_0x28f543+=_0x35f096[_0x3ed7b5&0x3f];}const _0x2fcd4a=0x3-(_0x19ca70[_0x26be8b(0x266)]%0x3||0x3);return _0x28f543[_0x44942e(0x1af,'eh]*')](0x0,_0x28f543['length']-_0x2fcd4a)+'=='['slice'](0x0,_0x2fcd4a);}_0x444cc9=_0x5de53c(_0xe16dc1);}const _0x43ae6d=new Response(_0x444cc9,{'headers':{'content-type':_0x4709f4(0x21b,'CN0D'),'Profile-Update-Interval':''+SUBUpdateTime,'Subscription-Userinfo':'upload='+_0x3c6967+';\x20download='+_0x3c6967+';\x20total='+total+';\x20expire='+_0x46e86c}});return _0x43ae6d;}}}}try{const _0x1017d7=await fetch(_0x4f417b);if(!_0x1017d7['ok'])throw new Error(_0x5d9056(0x28a)+_0x1017d7[_0x5d9056(0x2c4)]+'\x20'+_0x1017d7[_0x4709f4(0x1fb,'J#hF')]);let _0x2247c6=await _0x1017d7[_0x5d9056(0x2f8)]();return 协议类型=='Trojan'&&(_0x2db504[_0x4709f4(0x31c,'R@0o')]('surge')||_0x2c54fc===_0x4709f4(0x225,'oc3p')&&!_0x2db504[_0x5d9056(0x235)](_0x4709f4(0x21e,'$UXY')))&&!_0x2db504[_0x5d9056(0x235)](_0x4709f4(0x23a,'!pnq'))&&(_0x2247c6=surge(_0x2247c6,_0x322c74)),_0x2247c6=revertFakeInfo(_0x2247c6,_0x380080,_0x322c74),new Response(_0x2247c6,{'headers':{'Content-Disposition':_0x4709f4(0x2dc,'OpcB')+encodeURIComponent(FileName)+';\x20filename='+FileName,'content-type':_0x5d9056(0x2be),'Profile-Update-Interval':''+SUBUpdateTime,'Subscription-Userinfo':_0x5d9056(0x1fd)+_0x3c6967+_0x5d9056(0x2ea)+_0x3c6967+';\x20total='+total+_0x4709f4(0x2bf,'jCz5')+_0x46e86c}});}catch(_0x3db5cf){return new Response(_0x5d9056(0x1a6)+_0x3db5cf['message'],{'status':0x1f4,'headers':{'content-type':_0x5d9056(0x2be)}});}}};function surge(_0xe52a7,_0x133245){const _0x313011=a0_0x1c7625,_0x4f4f31=a0_0xc042fa;let _0x3adc67;_0xe52a7[_0x4f4f31(0x31c,'R@0o')]('\x0d\x0a')?_0x3adc67=_0xe52a7[_0x313011(0x22b)]('\x0d\x0a'):_0x3adc67=_0xe52a7[_0x4f4f31(0x1bf,'8I%*')]('\x0a');let _0xc5845e='';for(let _0x2b51d3 of _0x3adc67){if(_0x2b51d3[_0x313011(0x235)]('=\x20trojan,')){const _0x401abc=_0x2b51d3['split'](_0x313011(0x1d2))[0x1][_0x4f4f31(0x2a9,'#nCf')](',')[0x0],_0x1b3e16=_0x4f4f31(0x250,'eh]*'),_0x4d47a2=_0x4f4f31(0x1b7,'O$g$')+_0x401abc+_0x313011(0x2bb);_0xc5845e+=_0x2b51d3[_0x4f4f31(0x2a4,'9zlt')](new RegExp(_0x1b3e16,'g'),_0x4d47a2)[_0x4f4f31(0x25d,'actn')]('[','')['replace'](']','')+'\x0a';}else _0xc5845e+=_0x2b51d3+'\x0a';}return _0xc5845e='#!MANAGED-CONFIG\x20'+_0x133245['href']+_0x313011(0x29c)+_0xc5845e['substring'](_0xc5845e[_0x4f4f31(0x231,'!pnq')]('\x0a')),_0xc5845e;}function getRandomProxyByMatch(_0xefb715,_0x49c07c){const _0x280881=a0_0x1c7625,_0x37bed1=a0_0xc042fa,_0x29898b=_0xefb715[_0x37bed1(0x217,'NioF')]();let _0x40f6c1=_0x49c07c['filter'](_0x2098f5=>_0x2098f5[_0x37bed1(0x30e,'hRl6')]()[_0x37bed1(0x313,'K*f^')]('#'+_0x29898b));_0x40f6c1[_0x37bed1(0x2b6,'9zlt')]===0x0&&(_0x40f6c1=_0x49c07c[_0x37bed1(0x306,'K*f^')](_0x81043b=>_0x81043b[_0x37bed1(0x28b,'5I5y')]()[_0x280881(0x1c5)]('#us')));if(_0x40f6c1[_0x280881(0x266)]===0x0)return _0x49c07c[Math[_0x37bed1(0x1b1,'MY1D')](Math[_0x37bed1(0x1bd,'MY1D')]()*_0x49c07c[_0x280881(0x266)])];const _0x524f46=_0x40f6c1[Math[_0x37bed1(0x303,'0)R#')](Math[_0x37bed1(0x2ec,'kLLp')]()*_0x40f6c1['length'])];return _0x524f46;}async function MD5MD5(_0x134cda){const _0x3175aa=a0_0xc042fa,_0x152722=a0_0x1c7625,_0x3616e8=new TextEncoder(),_0x380936=await crypto['subtle'][_0x152722(0x2bd)](_0x3175aa(0x237,'actn'),_0x3616e8['encode'](_0x134cda)),_0x5f529d=Array[_0x152722(0x269)](new Uint8Array(_0x380936)),_0x263956=_0x5f529d['map'](_0x2b598a=>_0x2b598a['toString'](0x10)[_0x3175aa(0x274,'u5TI')](0x2,'0'))[_0x3175aa(0x2ef,'v^gO')](''),_0x1957d8=await crypto[_0x3175aa(0x28c,'J#hF')][_0x152722(0x2bd)](_0x152722(0x1c1),_0x3616e8[_0x3175aa(0x27a,'oc3p')](_0x263956[_0x3175aa(0x2d9,'hNJC')](0x7,0x1b))),_0x3e8b8b=Array[_0x3175aa(0x2fa,'JQJD')](new Uint8Array(_0x1957d8)),_0x2df925=_0x3e8b8b[_0x3175aa(0x1f9,'C9s1')](_0x5c4234=>_0x5c4234[_0x3175aa(0x2a7,'S*#D')](0x10)[_0x152722(0x293)](0x2,'0'))[_0x3175aa(0x24e,'!sVD')]('');return _0x2df925[_0x3175aa(0x206,'OpcB')]();}function revertFakeInfo(_0x405107,_0x5b7627,_0x456eb3){const _0x591cea=a0_0x1c7625;return _0x405107=_0x405107[_0x591cea(0x1aa)](new RegExp(fakeUserID,'g'),_0x5b7627)[_0x591cea(0x1aa)](new RegExp(fakeHostName,'g'),_0x456eb3),_0x405107;}function a0_0x1b28(_0x294b3e,_0x37d9f3){const _0x54ddeb=a0_0x54dd();return a0_0x1b28=function(_0x5cab30,_0x1fd67e){_0x5cab30=_0x5cab30-0x1a2;let _0x477782=_0x54ddeb[_0x5cab30];if(a0_0x1b28['rmhRiI']===undefined){var _0x5832be=function(_0x1b284d){const _0x2e3dbe='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x1ac156='',_0x2e50d4='';for(let _0x21daae=0x0,_0x4cb96f,_0x165ddc,_0x288248=0x0;_0x165ddc=_0x1b284d['charAt'](_0x288248++);~_0x165ddc&&(_0x4cb96f=_0x21daae%0x4?_0x4cb96f*0x40+_0x165ddc:_0x165ddc,_0x21daae++%0x4)?_0x1ac156+=String['fromCharCode'](0xff&_0x4cb96f>>(-0x2*_0x21daae&0x6)):0x0){_0x165ddc=_0x2e3dbe['indexOf'](_0x165ddc);}for(let _0xc0e573=0x0,_0x547679=_0x1ac156['length'];_0xc0e573<_0x547679;_0xc0e573++){_0x2e50d4+='%'+('00'+_0x1ac156['charCodeAt'](_0xc0e573)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2e50d4);};a0_0x1b28['fIzJOK']=_0x5832be,_0x294b3e=arguments,a0_0x1b28['rmhRiI']=!![];}const _0x28907e=_0x54ddeb[0x0],_0x5ecc65=_0x5cab30+_0x28907e,_0x556dc6=_0x294b3e[_0x5ecc65];return!_0x556dc6?(_0x477782=a0_0x1b28['fIzJOK'](_0x477782),_0x294b3e[_0x5ecc65]=_0x477782):_0x477782=_0x556dc6,_0x477782;},a0_0x1b28(_0x294b3e,_0x37d9f3);}function generateFakeInfo(_0x2bdb77,_0x5795f0,_0xceaed5){const _0x45cc28=a0_0xc042fa;return _0x2bdb77=_0x2bdb77[_0x45cc28(0x26a,'pNXF')](new RegExp(_0x5795f0,'g'),fakeUserID)['replace'](new RegExp(_0xceaed5,'g'),fakeHostName),_0x2bdb77;}function isValidIPv4(_0x2c6808){const _0x5b8f42=a0_0x1c7625,_0x13ff7b=/^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/;return _0x13ff7b[_0x5b8f42(0x2b7)](_0x2c6808);}function generateDynamicUUID(_0x4a8664){const _0x48a276=a0_0x1c7625,_0x429e96=a0_0xc042fa;function _0x4eb13a(){const _0x24b5df=a0_0x5cab,_0x175bb3=a0_0x1b28,_0x5262f4=new Date(),_0x45b65b=0x8,_0x4729cb=new Date(_0x5262f4[_0x175bb3(0x2e0)]()+_0x45b65b*0x3c*0x3c*0x3e8),_0x61787d=new Date(0x7d7,0x6,0x7,updateTime,0x0,0x0),_0x3853ea=_0x4729cb-_0x61787d,_0x5ccefc=0x3e8*0x3c*0x3c*0x18*effectiveTime;return Math[_0x24b5df(0x221,'R@0o')](_0x3853ea/_0x5ccefc);}const _0x10c427=_0x4eb13a(),_0x12d565=new Date(0x7d7,0x6,0x7,updateTime,0x0,0x0);_0x12d565[_0x429e96(0x1dc,'IWuS')](_0x12d565[_0x429e96(0x214,'jCz5')]()+_0x10c427*0x3e8*0x3c*0x3c*0x18*effectiveTime);function _0x1b8634(_0x58da90){const _0x16de41=a0_0x1b28,_0x15a96b=_0x429e96,_0x40df24=new TextEncoder()['encode'](_0x58da90);return crypto[_0x15a96b(0x28e,'3GI$')][_0x15a96b(0x1e1,'CN0D')](_0x15a96b(0x2f0,'5UDI'),_0x40df24)[_0x16de41(0x2c0)](_0x1f12be=>{const _0x197afb=_0x15a96b,_0x2e0b8e=_0x16de41,_0x4c44c9=Array[_0x2e0b8e(0x269)](new Uint8Array(_0x1f12be)),_0xdf2223=_0x4c44c9['map'](_0x13ec90=>_0x13ec90[_0x2e0b8e(0x253)](0x10)[_0x2e0b8e(0x293)](0x2,'0'))['join']('');let _0x170a3c=_0xdf2223[_0x2e0b8e(0x295)](0x0,0x8)+'-'+_0xdf2223['substr'](0x8,0x4)+'-4'+_0xdf2223[_0x2e0b8e(0x295)](0xd,0x3)+'-'+(parseInt(_0xdf2223[_0x2e0b8e(0x295)](0x10,0x2),0x10)&0x3f|0x80)[_0x2e0b8e(0x253)](0x10)+_0xdf2223[_0x197afb(0x2ad,'xXte')](0x12,0x2)+'-'+_0xdf2223['substr'](0x14,0xc);return _0x170a3c;});}const _0x88e222=_0x1b8634(_0x4a8664+_0x10c427),_0x4f92b0=_0x1b8634(_0x4a8664+(_0x10c427-0x1)),_0x1672f2=new Date(_0x12d565['getTime']()-0x8*0x3c*0x3c*0x3e8),_0x2a359c=_0x429e96(0x21c,'CN0D')+_0x1672f2[_0x429e96(0x256,'kLLp')]()[_0x429e96(0x278,'IWuS')](0x0,0x13)['replace']('T','\x20')+_0x429e96(0x24c,'3WlZ')+_0x12d565[_0x429e96(0x292,'IWuS')]()[_0x429e96(0x2f9,'!sVD')](0x0,0x13)[_0x48a276(0x1aa)]('T','\x20')+'\x0a';return Promise[_0x429e96(0x2da,'v^gO')]([_0x88e222,_0x4f92b0,_0x2a359c]);}async function getLink(_0x1f28cd){const _0x25694b=a0_0x1c7625,_0x3535d0=a0_0xc042fa;let _0x3878c2=[],_0x413302=[];for(let _0x12e2e4 of _0x1f28cd){_0x12e2e4[_0x3535d0(0x2f3,'v^gO')]()[_0x25694b(0x280)]('http')?_0x413302['push'](_0x12e2e4):_0x3878c2[_0x25694b(0x257)](_0x12e2e4);}if(_0x413302&&_0x413302[_0x25694b(0x266)]!==0x0){function _0x425728(_0x35ad37){const _0x236946=_0x25694b,_0x18394e=_0x3535d0,_0x4d78d6=new Uint8Array(atob(_0x35ad37)[_0x18394e(0x1b9,'OpcB')]('')[_0x18394e(0x29d,'MWkF')](_0x446c56=>_0x446c56[_0x18394e(0x1ed,'7lJH')](0x0))),_0x394050=new TextDecoder(_0x18394e(0x252,'S*#D'));return _0x394050[_0x236946(0x218)](_0x4d78d6);}const _0x31f9d1=new AbortController(),_0x3ea5fa=setTimeout(()=>{const _0x5f0acc=_0x25694b;_0x31f9d1[_0x5f0acc(0x1f1)]();},0x7d0);try{const _0x84e532=await Promise[_0x3535d0(0x30a,'Fz15')](_0x413302[_0x25694b(0x29f)](_0xd2b70c=>fetch(_0xd2b70c,{'method':_0x3535d0(0x29b,'5UDI'),'headers':{'Accept':'text/html,application/xhtml+xml,application/xml;','User-Agent':_0x3535d0(0x1a3,'Fz15')+FileName+_0x3535d0(0x28d,'hRl6')},'signal':_0x31f9d1[_0x3535d0(0x1da,'CtI9')]})[_0x3535d0(0x268,'JQJD')](_0x5b0aac=>_0x5b0aac['ok']?_0x5b0aac[_0x3535d0(0x210,'UZRD')]():Promise[_0x25694b(0x1ca)]()))),_0x5607e8=_0x84e532['map']((_0x538210,_0xe5e31f)=>{const _0x3d11a8=_0x25694b;return{'status':_0x538210[_0x3d11a8(0x2c4)],'value':_0x538210[_0x3d11a8(0x2d4)],'apiUrl':_0x413302[_0xe5e31f]};});console[_0x3535d0(0x1e5,'J#hF')](_0x5607e8);for(const _0xb19ec4 of _0x5607e8){if(_0xb19ec4[_0x25694b(0x2c4)]==='fulfilled'){const _0x5c0869=await _0xb19ec4[_0x3535d0(0x27c,'jCz5')]||_0x3535d0(0x1ab,'IWuS');if(_0x5c0869[_0x3535d0(0x2ab,'OpcB')]('://')){const _0x40c0=_0x5c0869['includes']('\x0d\x0a')?_0x5c0869['split']('\x0d\x0a'):_0x5c0869['split']('\x0a');_0x3878c2=_0x3878c2[_0x25694b(0x2fb)](_0x40c0);}else{const _0x3f3058=_0x425728(_0x5c0869);if(_0x3f3058[_0x25694b(0x235)](_0x25694b(0x30d))){const _0x1d34dc=_0x3f3058['includes']('\x0d\x0a')?_0x3f3058['split']('\x0d\x0a'):_0x3f3058['split']('\x0a');_0x3878c2=_0x3878c2['concat'](_0x1d34dc);}}}}}catch(_0x29cb32){console[_0x25694b(0x227)](_0x29cb32);}finally{clearTimeout(_0x3ea5fa);}}return _0x3878c2;}
+
+let 快速订阅访问入口 = ['auto'];
+let addresses = [];
+let addressesapi = [];
+
+let addressesnotls = [];
+let addressesnotlsapi = [];
+
+let addressescsv = [];
+let DLS = 7;
+let remarkIndex = 1;//CSV备注所在列偏移量
+
+let subConverter = 'SUBAPI.cmliussss.net';
+let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NtbGl1L0FDTDRTU1IvbWFpbi9DbGFzaC9jb25maWcvQUNMNFNTUl9PbmxpbmVfRnVsbF9NdWx0aU1vZGUuaW5p');
+let noTLS = 'false';
+let link;
+let 隧道版本作者 = atob('ZWQ=');
+let 获取代理IP;
+let proxyIPs = [
+	atob('cHJveHlpcC5meHhrLmRlZHluLmlv'),
+];
+let 匹配PROXYIP = []
+let socks5DataURL = '';
+let BotToken = '';
+let ChatID = '';
+let 临时中转域名 = [];
+let 临时中转域名接口 = '';
+let EndPS = '';
+let 协议类型 = atob(`\u0056\u006b\u0078\u0046\u0055\u0031\u004d\u003d`);
+let FileName = '优选订阅生成器';
+let SUBUpdateTime = 6;
+let total = 24;
+let timestamp = 4102329600000;
+const regex = /^(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|\[.*\]):?(\d+)?#?(.*)?$/;
+let fakeUserID;
+let fakeHostName;
+let httpsPorts = ["2053", "2083", "2087", "2096", "8443"];
+let 有效时间 = 7;
+let 更新时间 = 3;
+let MamaJustKilledAMan = ['telegram', 'twitter', 'miaoko'];
+let proxyIPPool = [];
+let socks5Data;
+let alpn = 'h3';
+let 网络备案 = `<a href='https://t.me/CMLiussss'>萌ICP备-20240707号</a>`;//写你自己的维护者广告
+let 额外ID = '0';
+let 加密方式 = 'auto';
+let 网站图标, 网站头像, 网站背景, xhttp;
+async function 整理优选列表(api) {
+	if (!api || api.length === 0) return [];
+
+	let newapi = "";
+
+	// 创建一个AbortController对象，用于控制fetch请求的取消
+	const controller = new AbortController();
+
+	const timeout = setTimeout(() => {
+		controller.abort(); // 取消所有请求
+	}, 2000); // 2秒后触发
+
+	try {
+		// 使用Promise.allSettled等待所有API请求完成，无论成功或失败
+		// 对api数组进行遍历，对每个API地址发起fetch请求
+		const responses = await Promise.allSettled(api.map(apiUrl => fetch(apiUrl, {
+			method: 'get',
+			headers: {
+				'Accept': 'text/html,application/xhtml+xml,application/xml;',
+				'User-Agent': FileName + atob('IGNtbGl1L1dvcmtlclZsZXNzMnN1Yg==')
+			},
+			signal: controller.signal // 将AbortController的信号量添加到fetch请求中，以便于需要时可以取消请求
+		}).then(response => response.ok ? response.text() : Promise.reject())));
+
+		// 遍历所有响应
+		for (const [index, response] of responses.entries()) {
+			// 检查响应状态是否为'fulfilled'，即请求成功完成
+			if (response.status === 'fulfilled') {
+				// 获取响应的内容
+				const content = await response.value;
+
+				const lines = content.split(/\r?\n/);
+				let 节点备注 = '';
+				let 测速端口 = '443';
+
+				if (lines[0].split(',').length > 3) {
+					const idMatch = api[index].match(/id=([^&]*)/);
+					if (idMatch) 节点备注 = idMatch[1];
+
+					const portMatch = api[index].match(/port=([^&]*)/);
+					if (portMatch) 测速端口 = portMatch[1];
+
+					for (let i = 1; i < lines.length; i++) {
+						const columns = lines[i].split(',')[0];
+						if (columns) {
+							newapi += `${columns}:${测速端口}${节点备注 ? `#${节点备注}` : ''}\n`;
+							if (api[index].includes('proxyip=true')) proxyIPPool.push(`${columns}:${测速端口}`);
+						}
+					}
+				} else {
+					// 验证当前apiUrl是否带有'proxyip=true'
+					if (api[index].includes('proxyip=true')) {
+						// 如果URL带有'proxyip=true'，则将内容添加到proxyIPPool
+						proxyIPPool = proxyIPPool.concat((await 整理(content)).map(item => {
+							const baseItem = item.split('#')[0] || item;
+							if (baseItem.includes(':')) {
+								const port = baseItem.split(':')[1];
+								if (!httpsPorts.includes(port)) {
+									return baseItem;
+								}
+							} else {
+								return `${baseItem}:443`;
+							}
+							return null; // 不符合条件时返回 null
+						}).filter(Boolean)); // 过滤掉 null 值
+					}
+					// 将内容添加到newapi中
+					newapi += content + '\n';
+				}
+			}
+		}
+	} catch (error) {
+		console.error(error);
+	} finally {
+		// 无论成功或失败，最后都清除设置的超时定时器
+		clearTimeout(timeout);
+	}
+
+	const newAddressesapi = await 整理(newapi);
+
+	// 返回处理后的结果
+	return newAddressesapi;
+}
+
+async function 整理测速结果(tls) {
+	// 参数验证
+	if (!tls) {
+		console.error('TLS参数不能为空');
+		return [];
+	}
+
+	// 检查CSV地址列表
+	if (!Array.isArray(addressescsv) || addressescsv.length === 0) {
+		console.warn('没有可用的CSV地址列表');
+		return [];
+	}
+
+	// CSV解析函数
+	function parseCSV(text) {
+		return text
+			.replace(/\r\n/g, '\n')   // 统一Windows换行
+			.replace(/\r/g, '\n')	 // 处理老Mac换行
+			.split('\n')			   // 按Unix/Linux风格分割
+			.filter(line => line.trim() !== '')  // 移除空行
+			.map(line => line.split(',').map(cell => cell.trim()));
+	}
+
+	// 并行处理CSV
+	const csvPromises = addressescsv.map(async (csvUrl) => {
+		try {
+			const response = await fetch(csvUrl);
+
+			if (!response.ok) {
+				throw new Error(`HTTP错误 ${response.status}: ${response.statusText}`);
+			}
+
+			const text = await response.text();
+			const rows = parseCSV(text);
+
+			// 解构和验证CSV头部
+			const [header, ...dataRows] = rows;
+			const tlsIndex = header.findIndex(col => col.toUpperCase() === 'TLS');
+
+			if (tlsIndex === -1) {
+				throw new Error('CSV文件缺少必需的字段');
+			}
+
+			return dataRows
+				.filter(row => {
+					const tlsValue = row[tlsIndex].toUpperCase();
+					const speed = parseFloat(row[row.length - 1]);
+					return tlsValue === tls.toUpperCase() && speed > DLS;
+				})
+				.map(row => {
+					const ipAddress = row[0];
+					const port = row[1];
+					const dataCenter = row[tlsIndex + remarkIndex];
+					const formattedAddress = `${ipAddress}:${port}#${dataCenter}`;
+
+					// 处理代理IP池
+					if (csvUrl.includes('proxyip=true') &&
+						row[tlsIndex].toUpperCase() === 'TRUE' &&
+						!httpsPorts.includes(port)) {
+						proxyIPPool.push(`${ipAddress}:${port}`);
+					}
+
+					return formattedAddress;
+				});
+		} catch (error) {
+			console.error(`处理CSV ${csvUrl} 时出错:`, error);
+			return [];
+		}
+	});
+
+	// 使用Promise.all并行处理并展平结果
+	const results = await Promise.all(csvPromises);
+	return results.flat();
+}
+
+async function 整理(内容) {
+	// 将制表符、双引号、单引号和换行符都替换为逗号
+	// 然后将连续的多个逗号替换为单个逗号
+	var 替换后的内容 = 内容.replace(/[	|"'\r\n]+/g, ',').replace(/,+/g, ',');
+
+	// 删除开头和结尾的逗号（如果有的话）
+	if (替换后的内容.charAt(0) == ',') 替换后的内容 = 替换后的内容.slice(1);
+	if (替换后的内容.charAt(替换后的内容.length - 1) == ',') 替换后的内容 = 替换后的内容.slice(0, 替换后的内容.length - 1);
+
+	// 使用逗号分割字符串，得到地址数组
+	const 地址数组 = 替换后的内容.split(',');
+
+	return 地址数组;
+}
+
+async function sendMessage(type, ip, add_data = "") {
+	if (!BotToken || !ChatID) return;
+
+	try {
+		let msg = "";
+		const response = await fetch(`http://ip-api.com/json/${ip}?lang=zh-CN`);
+		if (response.ok) {
+			const ipInfo = await response.json();
+			msg = `${type}\nIP: ${ip}\n国家: ${ipInfo.country}\n<tg-spoiler>城市: ${ipInfo.city}\n组织: ${ipInfo.org}\nASN: ${ipInfo.as}\n${add_data}`;
+		} else {
+			msg = `${type}\nIP: ${ip}\n<tg-spoiler>${add_data}`;
+		}
+
+		const url = `https://api.telegram.org/bot${BotToken}/sendMessage?chat_id=${ChatID}&parse_mode=HTML&text=${encodeURIComponent(msg)}`;
+		return fetch(url, {
+			method: 'GET',
+			headers: {
+				'Accept': 'text/html,application/xhtml+xml,application/xml;',
+				'Accept-Encoding': 'gzip, deflate, br',
+				'User-Agent': 'Mozilla/5.0 Chrome/90.0.4430.72'
+			}
+		});
+	} catch (error) {
+		console.error('Error sending message:', error);
+	}
+}
+
+async function nginx() {
+	const text = `
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title>Welcome to nginx!</title>
+	<style>
+		body {
+			width: 35em;
+			margin: 0 auto;
+			font-family: Tahoma, Verdana, Arial, sans-serif;
+		}
+	</style>
+	</head>
+	<body>
+	<h1>Welcome to nginx!</h1>
+	<p>If you see this page, the nginx web server is successfully installed and
+	working. Further configuration is required.</p>
+	
+	<p>For online documentation and support please refer to
+	<a href="http://nginx.org/">nginx.org</a>.<br/>
+	Commercial support is available at
+	<a href="http://nginx.com/">nginx.com</a>.</p>
+	
+	<p><em>Thank you for using nginx.</em></p>
+	</body>
+	</html>
+	`
+	return text;
+}
+
+function surge(content, url, path) {
+	let 每行内容;
+	if (content.includes('\r\n')) {
+		每行内容 = content.split('\r\n');
+	} else {
+		每行内容 = content.split('\n');
+	}
+
+	let 输出内容 = "";
+	for (let x of 每行内容) {
+		if (x.includes(atob('PSB0cm9qYW4s'))) {
+			const host = x.split("sni=")[1].split(",")[0];
+			const 备改内容 = `skip-cert-verify=true, tfo=false, udp-relay=false`;
+			const 正确内容 = `skip-cert-verify=true, ws=true, ws-path=${path}, ws-headers=Host:"${host}", tfo=false, udp-relay=false`;
+			输出内容 += x.replace(new RegExp(备改内容, 'g'), 正确内容).replace("[", "").replace("]", "") + '\n';
+		} else {
+			输出内容 += x + '\n';
+		}
+	}
+
+	输出内容 = `#!MANAGED-CONFIG ${url.href} interval=86400 strict=false` + 输出内容.substring(输出内容.indexOf('\n'));
+	return 输出内容;
+}
+
+function getRandomProxyByMatch(CC, socks5Data) {
+	// 将匹配字符串转换为小写
+	const lowerCaseMatch = CC.toLowerCase();
+
+	// 过滤出所有以指定匹配字符串结尾的代理字符串
+	let filteredProxies = socks5Data.filter(proxy => proxy.toLowerCase().endsWith(`#${lowerCaseMatch}`));
+
+	// 如果没有匹配的代理，尝试匹配 "US"
+	if (filteredProxies.length === 0) {
+		filteredProxies = socks5Data.filter(proxy => proxy.toLowerCase().endsWith(`#us`));
+	}
+
+	// 如果还是没有匹配的代理，从整个代理列表中随机选择一个
+	if (filteredProxies.length === 0) {
+		return socks5Data[Math.floor(Math.random() * socks5Data.length)];
+	}
+
+	// 从匹配的代理中随机选择一个并返回
+	const randomProxy = filteredProxies[Math.floor(Math.random() * filteredProxies.length)];
+	return randomProxy;
+}
+
+async function MD5MD5(text) {
+	const encoder = new TextEncoder();
+
+	const firstPass = await crypto.subtle.digest('MD5', encoder.encode(text));
+	const firstPassArray = Array.from(new Uint8Array(firstPass));
+	const firstHex = firstPassArray.map(b => b.toString(16).padStart(2, '0')).join('');
+
+	const secondPass = await crypto.subtle.digest('MD5', encoder.encode(firstHex.slice(7, 27)));
+	const secondPassArray = Array.from(new Uint8Array(secondPass));
+	const secondHex = secondPassArray.map(b => b.toString(16).padStart(2, '0')).join('');
+
+	return secondHex.toLowerCase();
+}
+
+function revertFakeInfo(content, userID, hostName) {
+	content = content.replace(new RegExp(fakeUserID, 'g'), userID).replace(new RegExp(fakeHostName, 'g'), hostName);
+	return content;
+}
+
+function generateFakeInfo(content, userID, hostName) {
+	content = content.replace(new RegExp(userID, 'g'), fakeUserID).replace(new RegExp(hostName, 'g'), fakeHostName);
+	return content;
+}
+
+function isValidIPv4(address) {
+	const ipv4Regex = /^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/;
+	return ipv4Regex.test(address);
+}
+
+function 生成动态UUID(密钥) {
+	const 时区偏移 = 8; // 北京时间相对于UTC的时区偏移+8小时
+	const 起始日期 = new Date(2007, 6, 7, 更新时间, 0, 0); // 固定起始日期为2007年7月7日的凌晨3点
+	const 一周的毫秒数 = 1000 * 60 * 60 * 24 * 有效时间;
+
+	function 获取当前周数() {
+		const 现在 = new Date();
+		const 调整后的现在 = new Date(现在.getTime() + 时区偏移 * 60 * 60 * 1000);
+		const 时间差 = Number(调整后的现在) - Number(起始日期);
+		return Math.ceil(时间差 / 一周的毫秒数);
+	}
+
+	function 生成UUID(基础字符串) {
+		const 哈希缓冲区 = new TextEncoder().encode(基础字符串);
+		return crypto.subtle.digest('SHA-256', 哈希缓冲区).then((哈希) => {
+			const 哈希数组 = Array.from(new Uint8Array(哈希));
+			const 十六进制哈希 = 哈希数组.map(b => b.toString(16).padStart(2, '0')).join('');
+			return `${十六进制哈希.substr(0, 8)}-${十六进制哈希.substr(8, 4)}-4${十六进制哈希.substr(13, 3)}-${(parseInt(十六进制哈希.substr(16, 2), 16) & 0x3f | 0x80).toString(16)}${十六进制哈希.substr(18, 2)}-${十六进制哈希.substr(20, 12)}`;
+		});
+	}
+
+	const 当前周数 = 获取当前周数(); // 获取当前周数
+	const 结束时间 = new Date(起始日期.getTime() + 当前周数 * 一周的毫秒数);
+
+	// 生成两个 UUID
+	const 当前UUIDPromise = 生成UUID(密钥 + 当前周数);
+	const 上一个UUIDPromise = 生成UUID(密钥 + (当前周数 - 1));
+
+	// 格式化到期时间
+	const 到期时间UTC = new Date(结束时间.getTime() - 时区偏移 * 60 * 60 * 1000); // UTC时间
+	const 到期时间字符串 = `到期时间(UTC): ${到期时间UTC.toISOString().slice(0, 19).replace('T', ' ')} (UTC+8): ${结束时间.toISOString().slice(0, 19).replace('T', ' ')}\n`;
+
+	return Promise.all([当前UUIDPromise, 上一个UUIDPromise, 到期时间字符串]);
+}
+
+async function getLink(重新汇总所有链接) {
+	let 节点LINK = [];
+	let 订阅链接 = [];
+	for (let x of 重新汇总所有链接) {
+		if (x.toLowerCase().startsWith('http')) {
+			订阅链接.push(x);
+		} else {
+			节点LINK.push(x);
+		}
+	}
+
+	if (订阅链接 && 订阅链接.length !== 0) {
+		function base64Decode(str) {
+			const bytes = new Uint8Array(atob(str).split('').map(c => c.charCodeAt(0)));
+			const decoder = new TextDecoder('utf-8');
+			return decoder.decode(bytes);
+		}
+		const controller = new AbortController(); // 创建一个AbortController实例，用于取消请求
+
+		const timeout = setTimeout(() => {
+			controller.abort(); // 2秒后取消所有请求
+		}, 2000);
+
+		try {
+			// 使用Promise.allSettled等待所有API请求完成，无论成功或失败
+			const responses = await Promise.allSettled(订阅链接.map(apiUrl => fetch(apiUrl, {
+				method: 'get',
+				headers: {
+					'Accept': 'text/html,application/xhtml+xml,application/xml;',
+					'User-Agent': `\u0076\u0032\u0072\u0061\u0079\u004e\u002f${FileName + atob('IGNtbGl1L1dvcmtlclZsZXNzMnN1Yg==')}`
+				},
+				signal: controller.signal // 将AbortController的信号量添加到fetch请求中
+			}).then(response => response.ok ? response.text() : Promise.reject())));
+
+			// 遍历所有响应
+			const modifiedResponses = responses.map((response, index) => {
+				// 检查是否请求成功
+				return {
+					status: response.status,
+					value: response.status === 'fulfilled' ? response.value : null,
+					apiUrl: 订阅链接[index] // 将原始的apiUrl添加到返回对象中
+				};
+			});
+
+			console.log(modifiedResponses); // 输出修改后的响应数组
+
+			for (const response of modifiedResponses) {
+				// 检查响应状态是否为'fulfilled'
+				if (response.status === 'fulfilled') {
+					const content = await response.value || 'null'; // 获取响应的内容
+					if (content.includes('://')) {
+						const lines = content.includes('\r\n') ? content.split('\r\n') : content.split('\n');
+						节点LINK = 节点LINK.concat(lines);
+					} else {
+						const 尝试base64解码内容 = base64Decode(content);
+						if (尝试base64解码内容.includes('://')) {
+							const lines = 尝试base64解码内容.includes('\r\n') ? 尝试base64解码内容.split('\r\n') : 尝试base64解码内容.split('\n');
+							节点LINK = 节点LINK.concat(lines);
+						}
+					}
+				}
+			}
+		} catch (error) {
+			console.error(error); // 捕获并输出错误信息
+		} finally {
+			clearTimeout(timeout); // 清除定时器
+		}
+	}
+
+	return 节点LINK;
+}
+
+function utf8ToBase64(str) {
+	return btoa(unescape(encodeURIComponent(str)));
+}
+
+export default {
+	async fetch(request, env) {
+		if (env.TOKEN) 快速订阅访问入口 = await 整理(env.TOKEN);
+		BotToken = env.TGTOKEN || BotToken;
+		ChatID = env.TGID || ChatID;
+		subConverter = env.SUBAPI || subConverter;
+		subConfig = env.SUBCONFIG || subConfig;
+		FileName = env.SUBNAME || FileName;
+		socks5DataURL = env.SOCKS5DATA || socks5DataURL;
+		if (env.CMPROXYIPS) 匹配PROXYIP = await 整理(env.CMPROXYIPS);;
+		if (env.CFPORTS) httpsPorts = await 整理(env.CFPORTS);
+		EndPS = env.PS || EndPS;
+		网站图标 = env.ICO ? `<link rel="icon" sizes="32x32" href="${env.ICO}">` : '';
+		网站头像 = env.PNG ? `<div class="logo-wrapper"><div class="logo-border"></div><img src="${env.PNG}" alt="Logo"></div>` : '';
+		if (env.IMG) {
+			const imgs = await 整理(env.IMG);
+			网站背景 = `background-image: url('${imgs[Math.floor(Math.random() * imgs.length)]}');`;
+		} else 网站背景 = '';
+		网络备案 = env.BEIAN || env.BY || 网络备案;
+		const userAgentHeader = request.headers.get('User-Agent');
+		const userAgent = userAgentHeader ? userAgentHeader.toLowerCase() : "null";
+		const url = new URL(request.url);
+		const format = url.searchParams.get('format') ? url.searchParams.get('format').toLowerCase() : "null";
+		let host = "";
+		let uuid = "";
+		let path = "";
+		let sni = "";
+		let type = "ws";
+		alpn = env.ALPN || alpn;
+		let UD = Math.floor(((timestamp - Date.now()) / timestamp * 99 * 1099511627776) / 2);
+		if (env.UA) MamaJustKilledAMan = MamaJustKilledAMan.concat(await 整理(env.UA));
+
+		const currentDate = new Date();
+		const fakeUserIDMD5 = await MD5MD5(Math.ceil(currentDate.getTime()));
+		fakeUserID = fakeUserIDMD5.slice(0, 8) + "-" + fakeUserIDMD5.slice(8, 12) + "-" + fakeUserIDMD5.slice(12, 16) + "-" + fakeUserIDMD5.slice(16, 20) + "-" + fakeUserIDMD5.slice(20);
+		fakeHostName = fakeUserIDMD5.slice(6, 9) + "." + fakeUserIDMD5.slice(13, 19) + ".xyz";
+
+		total = total * 1099511627776;
+		let expire = Math.floor(timestamp / 1000);
+
+		link = env.LINK || link;
+
+		if (env.ADD) addresses = await 整理(env.ADD);
+		if (env.ADDAPI) addressesapi = await 整理(env.ADDAPI);
+		if (env.ADDNOTLS) addressesnotls = await 整理(env.ADDNOTLS);
+		if (env.ADDNOTLSAPI) addressesnotlsapi = await 整理(env.ADDNOTLSAPI);
+		if (env.ADDCSV) addressescsv = await 整理(env.ADDCSV);
+		DLS = Number(env.DLS) || DLS;
+		remarkIndex = Number(env.CSVREMARK) || remarkIndex;
+
+		if (socks5DataURL) {
+			try {
+				const response = await fetch(socks5DataURL);
+				const socks5DataText = await response.text();
+				if (socks5DataText.includes('\r\n')) {
+					socks5Data = socks5DataText.split('\r\n').filter(line => line.trim() !== '');
+				} else {
+					socks5Data = socks5DataText.split('\n').filter(line => line.trim() !== '');
+				}
+			} catch {
+				socks5Data = null;
+			}
+		}
+
+		if (env.PROXYIP) proxyIPs = await 整理(env.PROXYIP);
+		//console.log(proxyIPs);
+
+		if (快速订阅访问入口.length > 0 && 快速订阅访问入口.some(token => url.pathname.includes(token))) {
+			host = "null";
+			if (env.HOST) {
+				const hosts = await 整理(env.HOST);
+				host = hosts[Math.floor(Math.random() * hosts.length)];
+			}
+
+			if (env.PASSWORD) {
+				协议类型 = atob('VHJvamFu');
+				uuid = env.PASSWORD
+			} else {
+				协议类型 = atob(`\u0056\u006b\u0078\u0046\u0055\u0031\u004d\u003d`);
+				if (env.KEY) {
+					有效时间 = Number(env.TIME) || 有效时间;
+					更新时间 = Number(env.UPTIME) || 更新时间;
+					const userIDs = await 生成动态UUID(env.KEY);
+					uuid = userIDs[0];
+				} else {
+					uuid = env.UUID || "null";
+				}
+			}
+
+			path = env.PATH || "/?ed=2560";
+			sni = env.SNI || host;
+			type = env.TYPE || type;
+			隧道版本作者 = env.ED || 隧道版本作者;
+			获取代理IP = env.RPROXYIP || 'false';
+
+			if (host == "null" || uuid == "null") {
+				let 空字段;
+				if (host == "null" && uuid == "null") 空字段 = "HOST/UUID";
+				else if (host == "null") 空字段 = "HOST";
+				else if (uuid == "null") 空字段 = "UUID";
+				EndPS += ` 订阅器内置节点 ${空字段} 未设置！！！`;
+			}
+
+			await sendMessage(`#获取订阅 ${FileName}`, request.headers.get('CF-Connecting-IP'), `UA: ${userAgentHeader}</tg-spoiler>\n域名: ${url.hostname}\n<tg-spoiler>入口: ${url.pathname + url.search}</tg-spoiler>`);
+		} else {
+			host = url.searchParams.get('host');
+			uuid = url.searchParams.get('uuid') || url.searchParams.get('password') || url.searchParams.get('pw');
+			path = url.searchParams.get('path');
+			sni = url.searchParams.get('sni') || host;
+			type = url.searchParams.get('type') || type;
+			const mode = url.searchParams.get('mode') || null;
+			const extra = url.searchParams.get('extra') || null;
+			xhttp = (mode ? `&mode=${mode}` : "") + (extra ? `&extra=${encodeURIComponent(extra)}` : "");
+			alpn = url.searchParams.get('alpn') || (xhttp ? "h3%2Ch2" : alpn);
+			隧道版本作者 = url.searchParams.get(atob('ZWRnZXR1bm5lbA==')) || url.searchParams.get(atob('ZXBlaXVz')) || 隧道版本作者;
+			获取代理IP = url.searchParams.get('proxyip') || 'false';
+
+			if (url.searchParams.has('alterid')) {
+				协议类型 = 'VMess';
+				额外ID = url.searchParams.get('alterid') || 额外ID;
+				加密方式 = url.searchParams.get('security') || 加密方式;
+			} else if (url.searchParams.has(atob('ZWRnZXR1bm5lbA==')) || url.searchParams.has('uuid')) {
+				协议类型 = atob('VkxFU1M=');
+			} else if (url.searchParams.has(atob('ZXBlaXVz')) || url.searchParams.has('password') || url.searchParams.has('pw')) {
+				协议类型 = atob('VHJvamFu');
+			}
+
+			if (!url.pathname.includes("/sub")) {
+				const envKey = env.URL302 ? 'URL302' : (env.URL ? 'URL' : null);
+				if (envKey) {
+					const URLs = await 整理(env[envKey]);
+					if (URLs.includes('nginx')) {
+						return new Response(await nginx(), {
+							headers: {
+								'Content-Type': 'text/html; charset=UTF-8',
+							},
+						});
+					}
+					const URL = URLs[Math.floor(Math.random() * URLs.length)];
+					return envKey === 'URL302' ? Response.redirect(URL, 302) : fetch(new Request(URL, request));
+				}
+				return await subHtml(request);
+			}
+
+			if (!host || !uuid) {
+				const responseText = `
+			缺少必填参数：host 和 uuid
+			Missing required parameters: host and uuid
+			پارامترهای ضروری وارد نشده: هاست و یوآی‌دی
+			
+			${url.origin}/sub?host=[your host]&uuid=[your uuid]&path=[your path]
+			
+			
+			
+			
+			
+			
+				
+				${atob('aHR0cHM6Ly9naXRodWIuY29tL2NtbGl1L3dvcmtlclZsZXNzMnN1Yg==')}
+				`;
+
+				return new Response(responseText, {
+					status: 202,
+					headers: { 'content-type': 'text/plain; charset=utf-8' },
+				});
+			}
+
+			if (!path || path.trim() === '') {
+				path = '/?ed=2560';
+			} else {
+				// 如果第一个字符不是斜杠，则在前面添加一个斜杠
+				path = (path[0] === '/') ? path : '/' + path;
+			}
+		}
+
+		if (host.toLowerCase().includes('notls') || host.toLowerCase().includes('worker') || host.toLowerCase().includes('trycloudflare')) noTLS = 'true';
+		noTLS = env.NOTLS || noTLS;
+		let subConverterUrl = generateFakeInfo(url.href, uuid, host);
+		if (userAgent.includes('subconverter')) alpn = '';
+		if (!userAgent.includes('subconverter') && MamaJustKilledAMan.some(PutAGunAgainstHisHeadPulledMyTriggerNowHesDead => userAgent.includes(PutAGunAgainstHisHeadPulledMyTriggerNowHesDead)) && MamaJustKilledAMan.length > 0) {
+			const envKey = env.URL302 ? 'URL302' : (env.URL ? 'URL' : null);
+			if (envKey) {
+				const URLs = await 整理(env[envKey]);
+				if (URLs.includes('nginx')) {
+					return new Response(await nginx(), {
+						headers: {
+							'Content-Type': 'text/html; charset=UTF-8',
+						},
+					});
+				}
+				const URL = URLs[Math.floor(Math.random() * URLs.length)];
+				return envKey === 'URL302' ? Response.redirect(URL, 302) : fetch(new Request(URL, request));
+			}
+			return await subHtml(request);
+		} else if ((userAgent.includes('clash') || (format === 'clash' && !userAgent.includes('subconverter'))) && !userAgent.includes('nekobox') && !userAgent.includes('cf-workers-sub')) {
+			subConverterUrl = `https://${subConverter}/sub?target=clash&url=${encodeURIComponent(subConverterUrl)}&insert=false&config=${encodeURIComponent(subConfig)}&emoji=true&list=false&tfo=false&scv=true&fdn=false&sort=false&new_name=true`;
+		} else if ((userAgent.includes('sing-box') || userAgent.includes('singbox') || (format === 'singbox' && !userAgent.includes('subconverter'))) && !userAgent.includes('cf-workers-sub')) {
+			if (协议类型 == 'VMess' && url.href.includes('path=')) {
+				const 路径参数前部分 = url.href.split('path=')[0];
+				const parts = url.href.split('path=')[1].split('&');
+				const 路径参数后部分 = parts.slice(1).join('&') || '';
+				const 待处理路径参数 = url.href.split('path=')[1].split('&')[0] || '';
+				if (待处理路径参数.includes('%3F')) subConverterUrl = generateFakeInfo(路径参数前部分 + 'path=' + 待处理路径参数.split('%3F')[0] + '&' + 路径参数后部分, uuid, host);
+			}
+			subConverterUrl = `https://${subConverter}/sub?target=singbox&url=${encodeURIComponent(subConverterUrl)}&insert=false&config=${encodeURIComponent(subConfig)}&emoji=true&list=false&tfo=false&scv=true&fdn=false&sort=false&new_name=true`;
+		} else {
+			if (host.includes('workers.dev')) {
+				if (临时中转域名接口) {
+					try {
+						const response = await fetch(临时中转域名接口);
+
+						if (!response.ok) {
+							console.error('获取地址时出错:', response.status, response.statusText);
+							return; // 如果有错误，直接返回
+						}
+
+						const text = await response.text();
+						const lines = text.split('\n');
+						// 过滤掉空行或只包含空白字符的行
+						const nonEmptyLines = lines.filter(line => line.trim() !== '');
+
+						临时中转域名 = 临时中转域名.concat(nonEmptyLines);
+					} catch (error) {
+						console.error('获取地址时出错:', error);
+					}
+				}
+				// 使用Set对象去重
+				临时中转域名 = [...new Set(临时中转域名)];
+			}
+
+			const newAddressesapi = await 整理优选列表(addressesapi);
+			const newAddressescsv = await 整理测速结果('TRUE');
+			const uniqueAddresses = Array.from(new Set(addresses.concat(newAddressesapi, newAddressescsv).filter(item => item && item.trim())));
+
+			let notlsresponseBody;
+			if ((noTLS == 'true' && 协议类型 == atob(`\u0056\u006b\u0078\u0046\u0055\u0031\u004d\u003d`)) || 协议类型 == 'VMess') {
+				const newAddressesnotlsapi = await 整理优选列表(addressesnotlsapi);
+				const newAddressesnotlscsv = await 整理测速结果('FALSE');
+				const uniqueAddressesnotls = Array.from(new Set(addressesnotls.concat(newAddressesnotlsapi, newAddressesnotlscsv).filter(item => item && item.trim())));
+
+				notlsresponseBody = uniqueAddressesnotls.map(address => {
+					let port = "-1";
+					let addressid = address;
+
+					const match = addressid.match(regex);
+					if (!match) {
+						if (address.includes(':') && address.includes('#')) {
+							const parts = address.split(':');
+							address = parts[0];
+							const subParts = parts[1].split('#');
+							port = subParts[0];
+							addressid = subParts[1];
+						} else if (address.includes(':')) {
+							const parts = address.split(':');
+							address = parts[0];
+							port = parts[1];
+						} else if (address.includes('#')) {
+							const parts = address.split('#');
+							address = parts[0];
+							addressid = parts[1];
+						}
+
+						if (addressid.includes(':')) {
+							addressid = addressid.split(':')[0];
+						}
+					} else {
+						address = match[1];
+						port = match[2] || port;
+						addressid = match[3] || address;
+					}
+
+					const httpPorts = ["8080", "8880", "2052", "2082", "2086", "2095"];
+					if (!isValidIPv4(address) && port == "-1") {
+						for (let httpPort of httpPorts) {
+							if (address.includes(httpPort)) {
+								port = httpPort;
+								break;
+							}
+						}
+					}
+					if (port == "-1") port = "80";
+					//console.log(address, port, addressid);
+
+					if (隧道版本作者.trim() === atob('Y21saXU=') && 获取代理IP.trim() === 'true') {
+						// 将addressid转换为小写
+						let lowerAddressid = addressid.toLowerCase();
+						// 初始化找到的proxyIP为null
+						let foundProxyIP = null;
+
+						if (socks5Data) {
+							const socks5 = getRandomProxyByMatch(lowerAddressid, socks5Data);
+							path = `/${socks5}`;
+						} else {
+							// 遍历匹配PROXYIP数组查找匹配项
+							for (let item of 匹配PROXYIP) {
+								if (item.includes('#') && item.split('#')[1] && lowerAddressid.includes(item.split('#')[1].toLowerCase())) {
+									foundProxyIP = item.split('#')[0];
+									break; // 找到匹配项，跳出循环
+								} else if (item.includes(':') && item.split(':')[1] && lowerAddressid.includes(item.split(':')[1].toLowerCase())) {
+									foundProxyIP = item.split(':')[0];
+									break; // 找到匹配项，跳出循环
+								}
+							}
+
+							if (foundProxyIP) {
+								// 如果找到匹配的proxyIP，赋值给path
+								path = atob('L3Byb3h5aXA9') + foundProxyIP;
+							} else {
+								// 如果没有找到匹配项，随机选择一个proxyIP
+								const randomProxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
+								path = atob('L3Byb3h5aXA9') + randomProxyIP;
+							}
+						}
+					}
+
+					if (协议类型 == 'VMess') {
+						const vmessLink = `vmess://${utf8ToBase64(`{"v":"2","ps":"${addressid + EndPS}","add":"${address}","port":"${port}","id":"${uuid}","aid":"${额外ID}","scy":"${加密方式}","net":"ws","type":"${type}","host":"${host}","path":"${path}","tls":"","sni":"","alpn":"${encodeURIComponent(alpn)}","fp":""}`)}`;
+						return vmessLink;
+					} else {
+						const 维列斯Link = `${atob('dmxlc3M6Ly8=') + uuid}@${address}:${port + atob('P2VuY3J5cHRpb249bm9uZSZzZWN1cml0eT0mdHlwZT0=') + type}&host=${host}&path=${encodeURIComponent(path)}#${encodeURIComponent(addressid + EndPS)}`;
+						return 维列斯Link;
+					}
+
+				}).join('\n');
+			}
+
+			const responseBody = uniqueAddresses.map(address => {
+				let port = "-1";
+				let addressid = address;
+
+				const match = addressid.match(regex);
+				if (!match) {
+					if (address.includes(':') && address.includes('#')) {
+						const parts = address.split(':');
+						address = parts[0];
+						const subParts = parts[1].split('#');
+						port = subParts[0];
+						addressid = subParts[1];
+					} else if (address.includes(':')) {
+						const parts = address.split(':');
+						address = parts[0];
+						port = parts[1];
+					} else if (address.includes('#')) {
+						const parts = address.split('#');
+						address = parts[0];
+						addressid = parts[1];
+					}
+
+					if (addressid.includes(':')) {
+						addressid = addressid.split(':')[0];
+					}
+				} else {
+					address = match[1];
+					port = match[2] || port;
+					addressid = match[3] || address;
+				}
+
+				if (!isValidIPv4(address) && port == "-1") {
+					for (let httpsPort of httpsPorts) {
+						if (address.includes(httpsPort)) {
+							port = httpsPort;
+							break;
+						}
+					}
+				}
+				if (port == "-1") port = "443";
+
+				//console.log(address, port, addressid);
+
+				if (隧道版本作者.trim() === atob('Y21saXU=') && 获取代理IP.trim() === 'true') {
+					// 将addressid转换为小写
+					let lowerAddressid = addressid.toLowerCase();
+					// 初始化找到的proxyIP为null
+					let foundProxyIP = null;
+
+					if (socks5Data) {
+						const socks5 = getRandomProxyByMatch(lowerAddressid, socks5Data);
+						path = `/${socks5}`;
+					} else {
+						// 遍历匹配PROXYIP数组查找匹配项
+						for (let item of 匹配PROXYIP) {
+							if (item.includes('#') && item.split('#')[1] && lowerAddressid.includes(item.split('#')[1].toLowerCase())) {
+								foundProxyIP = item.split('#')[0];
+								break; // 找到匹配项，跳出循环
+							} else if (item.includes(':') && item.split(':')[1] && lowerAddressid.includes(item.split(':')[1].toLowerCase())) {
+								foundProxyIP = item.split(':')[0];
+								break; // 找到匹配项，跳出循环
+							}
+						}
+
+						const matchingProxyIP = proxyIPPool.find(proxyIP => proxyIP.includes(address));
+						if (matchingProxyIP) {
+							path = atob('L3Byb3h5aXA9') + matchingProxyIP;
+						} else if (foundProxyIP) {
+							// 如果找到匹配的proxyIP，赋值给path
+							path = atob('L3Byb3h5aXA9') + foundProxyIP;
+						} else {
+							// 如果没有找到匹配项，随机选择一个proxyIP
+							const randomProxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
+							path = atob('L3Byb3h5aXA9') + randomProxyIP;
+						}
+					}
+				}
+
+				let 伪装域名 = host;
+				let 最终路径 = path;
+				let 节点备注 = EndPS;
+				if (临时中转域名.length > 0 && (host.includes('.workers.dev'))) {
+					最终路径 = `/${host}${path}`;
+					伪装域名 = 临时中转域名[Math.floor(Math.random() * 临时中转域名.length)];
+					节点备注 = EndPS + atob('IOW3suWQr+eUqOS4tOaXtuWfn+WQjeS4rei9rOacjeWKoe+8jOivt+WwveW/q+e7keWumuiHquWumuS5ieWfn++8gQ==');
+					sni = 伪装域名;
+				}
+
+				if (协议类型 == 'VMess') {
+					const vmessLink = `vmess://${utf8ToBase64(`{"v":"2","ps":"${addressid + 节点备注}","add":"${address}","port":"${port}","id":"${uuid}","aid":"${额外ID}","scy":"${加密方式}","net":"ws","type":"${type}","host":"${伪装域名}","path":"${最终路径}","tls":"tls","sni":"${sni}","alpn":"${encodeURIComponent(alpn)}","fp":""}`)}`;
+					return vmessLink;
+				} else if (协议类型 == atob('VHJvamFu')) {
+					const 特洛伊Link = `${atob('dHJvamFuOi8v') + uuid}@${address}:${port + atob('P3NlY3VyaXR5PXRscyZzbmk9') + sni}&alpn=${encodeURIComponent(alpn)}&fp=randomized&type=${type}&host=${伪装域名}&path=${encodeURIComponent(最终路径)}#${encodeURIComponent(addressid + 节点备注)}`;
+					return 特洛伊Link;
+				} else {
+					const 维列斯Link = `${atob('dmxlc3M6Ly8=') + uuid}@${address}:${port + atob('P2VuY3J5cHRpb249bm9uZSZzZWN1cml0eT10bHMmc25pPQ==') + sni}&alpn=${encodeURIComponent(alpn)}&fp=random&type=${type}&host=${伪装域名}&path=${encodeURIComponent(最终路径) + xhttp}#${encodeURIComponent(addressid + 节点备注)}`;
+					return 维列斯Link;
+				}
+
+			}).join('\n');
+
+			let combinedContent = responseBody; // 合并内容
+
+			if (link) {
+				const links = await 整理(link);
+				const 整理节点LINK = (await getLink(links)).join('\n');
+				combinedContent += '\n' + 整理节点LINK;
+				console.log("link: " + 整理节点LINK)
+			}
+
+			if (notlsresponseBody && noTLS == 'true') {
+				combinedContent += '\n' + notlsresponseBody;
+				console.log("notlsresponseBody: " + notlsresponseBody);
+			}
+
+			if (协议类型 == atob('VHJvamFu') && (userAgent.includes('surge') || (format === 'surge' && !userAgent.includes('subconverter'))) && !userAgent.includes('cf-workers-sub')) {
+				const 特洛伊Links = combinedContent.split('\n');
+				const 特洛伊LinksJ8 = generateFakeInfo(特洛伊Links.join('|'), uuid, host);
+				subConverterUrl = `https://${subConverter}/sub?target=surge&ver=4&url=${encodeURIComponent(特洛伊LinksJ8)}&insert=false&config=${encodeURIComponent(subConfig)}&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=true&fdn=false`;
+			} else {
+
+				let base64Response;
+				try {
+					base64Response = btoa(combinedContent); // 重新进行 Base64 编码
+				} catch (e) {
+					function encodeBase64(data) {
+						const binary = new TextEncoder().encode(data);
+						let base64 = '';
+						const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/';
+
+						for (let i = 0; i < binary.length; i += 3) {
+							const byte1 = binary[i];
+							const byte2 = binary[i + 1] || 0;
+							const byte3 = binary[i + 2] || 0;
+
+							base64 += chars[byte1 >> 2];
+							base64 += chars[((byte1 & 3) << 4) | (byte2 >> 4)];
+							base64 += chars[((byte2 & 15) << 2) | (byte3 >> 6)];
+							base64 += chars[byte3 & 63];
+						}
+
+						const padding = 3 - (binary.length % 3 || 3);
+						return base64.slice(0, base64.length - padding) + '=='.slice(0, padding);
+					}
+
+					base64Response = encodeBase64(combinedContent);
+				}
+
+				const response = new Response(base64Response, {
+					headers: {
+						//"Content-Disposition": `attachment; filename*=utf-8''${encodeURIComponent(FileName)}; filename=${FileName}`,
+						"content-type": "text/plain; charset=utf-8",
+						"Profile-Update-Interval": `${SUBUpdateTime}`,
+						//"Subscription-Userinfo": `upload=${UD}; download=${UD}; total=${total}; expire=${expire}`,
+					},
+				});
+
+				return response;
+			}
+
+		}
+
+		try {
+			const subConverterResponse = await fetch(subConverterUrl);
+
+			if (!subConverterResponse.ok) {
+				throw new Error(`Error fetching subConverterUrl: ${subConverterResponse.status} ${subConverterResponse.statusText}`);
+			}
+
+			let subConverterContent = await subConverterResponse.text();
+
+			if (协议类型 == atob('VHJvamFu') && (userAgent.includes('surge') || (format === 'surge' && !userAgent.includes('subconverter'))) && !userAgent.includes('cf-workers-sub')) {
+				subConverterContent = surge(subConverterContent, host, path);
+			}
+			subConverterContent = revertFakeInfo(subConverterContent, uuid, host);
+			return new Response(subConverterContent, {
+				headers: {
+					"Content-Disposition": `attachment; filename*=utf-8''${encodeURIComponent(FileName)}; filename=${FileName}`,
+					"content-type": "text/plain; charset=utf-8",
+					"Profile-Update-Interval": `${SUBUpdateTime}`,
+					//"Subscription-Userinfo": `upload=${UD}; download=${UD}; total=${total}; expire=${expire}`,
+				},
+			});
+		} catch (error) {
+			return new Response(`Error: ${error.message}`, {
+				status: 500,
+				headers: { 'content-type': 'text/plain; charset=utf-8' },
+			});
+		}
+	}
+};
+
+async function subHtml(request) {
+	const url = new URL(request.url);
+	const HTML = `
+			<!DOCTYPE html>
+			<html>
+			<head>
+				<meta charset="UTF-8">
+				<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<title>${FileName}</title>
+				${网站图标}
+				<style>
+					:root {
+						--primary-color: #4361ee;
+						--hover-color: #3b4fd3;
+						--bg-color: #f5f6fa;
+						--card-bg: #ffffff;
+					}
+					
+					* {
+						box-sizing: border-box;
+						margin: 0;
+						padding: 0;
+					}
+					
+					body {
+						${网站背景}
+						background-size: cover;
+						background-position: center;
+						background-attachment: fixed;
+						background-color: var(--bg-color);
+						font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+						line-height: 1.6;
+						color: #333;
+						min-height: 100vh;
+						display: flex;
+						justify-content: center;
+						align-items: center;
+					}
+					
+					.container {
+						position: relative;
+						/* 使用rgba设置半透明背景 */
+						background: rgba(255, 255, 255, 0.7);
+						/* 添加磨砂玻璃效果 */
+						backdrop-filter: blur(10px);
+						-webkit-backdrop-filter: blur(10px); /* Safari兼容 */
+						max-width: 600px;
+						width: 90%;
+						padding: 2rem;
+						border-radius: 20px;
+						/* 调整阴影效果增加通透感 */
+						box-shadow: 0 10px 20px rgba(0,0,0,0.05),
+									inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+						transition: transform 0.3s ease;
+					}
+
+					/* 调整hover效果 */
+					.container:hover {
+						transform: translateY(-5px);
+						box-shadow: 0 15px 30px rgba(0,0,0,0.1),
+									inset 0 0 0 1px rgba(255, 255, 255, 0.2);
+					}
+					
+					h1 {
+						text-align: center;
+						color: var(--primary-color);
+						margin-bottom: 2rem;
+						font-size: 1.8rem;
+					}
+					
+					.input-group {
+						margin-bottom: 1.5rem;
+					}
+					
+					label {
+						display: block;
+						margin-bottom: 0.5rem;
+						color: #555;
+						font-weight: 500;
+					}
+					
+					input {
+						width: 100%;
+						padding: 12px;
+						/* 修改边框颜色从 #eee 到更深的颜色 */
+						border: 2px solid rgba(0, 0, 0, 0.15);  /* 使用rgba实现更自然的深度 */
+						border-radius: 10px;
+						font-size: 1rem;
+						transition: all 0.3s ease;
+						/* 添加轻微的内阴影增强边框效果 */
+						box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.03);
+					}
+
+					input:focus {
+						outline: none;
+						border-color: var(--primary-color);
+						/* 增强focus状态下的阴影效果 */
+						box-shadow: 0 0 0 3px rgba(67, 97, 238, 0.15),
+									inset 0 2px 4px rgba(0, 0, 0, 0.03);
+					}
+					
+					button {
+						width: 100%;
+						padding: 12px;
+						background-color: var(--primary-color);
+						color: white;
+						border: none;
+						border-radius: 10px;
+						font-size: 1rem;
+						font-weight: 600;
+						cursor: pointer;
+						transition: all 0.3s ease;
+						margin-bottom: 1.5rem;
+					}
+					
+					button:hover {
+						background-color: var(--hover-color);
+						transform: translateY(-2px);
+					}
+					
+					button:active {
+						transform: translateY(0);
+					}
+					
+					#result {
+						background-color: #f8f9fa;
+						font-family: monospace;
+						word-break: break-all;
+					}
+
+					.github-corner svg {
+						fill: var(--primary-color);
+						color: var(--card-bg);
+						position: absolute;
+						top: 0;
+						right: 0;
+						border: 0;
+						width: 80px;
+						height: 80px;
+					}
+
+					.github-corner:hover .octo-arm {
+						animation: octocat-wave 560ms ease-in-out;
+					}
+
+					@keyframes octocat-wave {
+						0%, 100% { transform: rotate(0) }
+						20%, 60% { transform: rotate(-25deg) }
+						40%, 80% { transform: rotate(10deg) }
+					}
+
+					@keyframes rotate {
+						from { transform: rotate(0deg); }
+						to { transform: rotate(360deg); }
+					}
+
+					.logo-title {
+						position: relative;
+						display: flex;
+						justify-content: center;
+						align-items: center;
+						margin-bottom: 2rem;
+					}
+
+					.logo-wrapper {
+						position: absolute;
+						left: 0;
+						width: 50px;
+						height: 50px;
+					}
+
+					.logo-title img {
+						width: 100%;
+						height: 100%;
+						border-radius: 50%;
+						position: relative;
+						z-index: 1;
+						background: var(--card-bg);
+						box-shadow: 0 0 15px rgba(67, 97, 238, 0.1);
+					}
+
+					.logo-border {
+						position: absolute;
+						/* 扩大边框范围以确保完全覆盖 */
+						top: -3px;
+						left: -3px;
+						right: -3px;
+						bottom: -3px;
+						border-radius: 50%;
+						animation: rotate 3s linear infinite;
+						background: conic-gradient(
+							from 0deg,
+							transparent 0%,
+							var(--primary-color) 20%,
+							rgba(67, 97, 238, 0.8) 40%,
+							transparent 60%,
+							transparent 100%
+						);
+						box-shadow: 0 0 10px rgba(67, 97, 238, 0.3);
+						filter: blur(0.5px);
+					}
+
+					.logo-border::after {
+						content: '';
+						position: absolute;
+						/* 调整内圆遮罩的大小 */
+						inset: 3px;
+						border-radius: 50%;
+						background: var(--card-bg);
+					}
+
+					@keyframes rotate {
+						from { transform: rotate(0deg); }
+						to { transform: rotate(360deg); }
+					}
+
+					.logo-title h1 {
+						margin-bottom: 0;
+						text-align: center;
+					}
+
+					@media (max-width: 480px) {
+						.container {
+							padding: 1.5rem;
+						}
+						
+						h1 {
+							font-size: 1.5rem;
+						}
+
+						.github-corner:hover .octo-arm {
+							animation: none;
+						}
+						.github-corner .octo-arm {
+							animation: octocat-wave 560ms ease-in-out;
+						}
+
+						.logo-wrapper {
+							width: 40px;
+							height: 40px;
+						}
+					}
+
+					.beian-info {
+						text-align: center;
+						font-size: 13px;
+					}
+
+					.beian-info a {
+						color: var(--primary-color);
+						text-decoration: none;
+						border-bottom: 1px dashed var(--primary-color);
+						padding-bottom: 2px;
+					}
+
+					.beian-info a:hover {
+						border-bottom-style: solid;
+					}
+
+					#qrcode {
+						display: flex;
+						justify-content: center;
+						align-items: center;
+						margin-top: 20px;
+					}
+
+					.info-icon {
+						display: inline-flex;
+						align-items: center;
+						justify-content: center;
+						width: 18px;
+						height: 18px;
+						border-radius: 50%;
+						background-color: var(--primary-color);
+						color: white;
+						font-size: 12px;
+						margin-left: 8px;
+						cursor: pointer;
+						font-weight: bold;
+						position: relative;   /* 添加相对定位 */
+						top: -3px;            /* 微调垂直位置 */
+					}
+
+					.info-tooltip {
+						display: none;
+						position: fixed; /* 改为固定定位 */
+						background: white;
+						border: 1px solid var(--primary-color);
+						border-radius: 8px;
+						padding: 15px;
+						z-index: 1000;
+						box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+						min-width: 200px;
+						max-width: 90vw;  /* 视窗宽度的90% */
+						width: max-content;  /* 根据内容自适应宽度 */
+						left: 50%;
+						top: 50%;
+						transform: translate(-50%, -50%); /* 居中定位 */
+						margin: 0;
+						line-height: 1.6;
+						font-size: 13px;
+						white-space: normal;
+						word-wrap: break-word;
+						overflow-wrap: break-word;
+					}
+
+					/* 移除原来的箭头 */
+					.info-tooltip::before {
+						display: none;
+					}
+				</style>
+				<script src="https://cdn.jsdelivr.net/npm/@keeex/qrcodejs-kx@1.0.2/qrcode.min.js"></script>
+			</head>
+			<body>
+				<a href="${atob('aHR0cHM6Ly9naXRodWIuY29tL2NtbGl1L1dvcmtlclZsZXNzMnN1Yg==')}" target="_blank" class="github-corner" aria-label="View source on Github">
+					<svg viewBox="0 0 250 250" aria-hidden="true">
+						<path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
+						<path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path>
+						<path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path>
+					</svg>
+				</a>
+				<div class="container">
+						<div class="logo-title">
+							${网站头像}
+							<h1>${FileName}</h1>
+						</div>
+					<div class="input-group">
+						<label for="link">节点链接</label>
+						<input type="text" id="link" placeholder="${decodeURIComponent(atob('JUU4JUFGJUI3JUU4JUJFJTkzJUU1JTg1JUE1JTIwVk1lc3MlMjAlMkYlMjBWTEVTUyUyMCUyRiUyMFRyb2phbiUyMCVFOSU5MyVCRSVFNiU4RSVBNQ=='))}">
+					</div>
+					
+					<button onclick="generateLink()">生成优选订阅</button>
+					
+					<div class="input-group">
+						<div style="display: flex; align-items: center;">
+							<label for="result">优选订阅</label>
+							<div style="position: relative;">
+								<span class="info-icon" onclick="toggleTooltip(event)">!</span>
+								<div class="info-tooltip" id="infoTooltip">
+									<strong>安全提示</strong>：使用优选订阅生成器时，需要您提交 <strong>节点配置信息</strong> 用于生成优选订阅链接。这意味着订阅器的维护者可能会获取到该节点信息。<strong>请自行斟酌使用风险。</strong><br>
+									<br>
+									订阅转换后端：<strong>${subConverter}</strong><br>
+									订阅转换配置文件：<strong>${subConfig}</strong>
+								</div>
+							</div>
+						</div>
+						<input type="text" id="result" readonly onclick="copyToClipboard()">
+						<label id="qrcode" style="margin: 15px 10px -15px 10px;"></label>
+					</div>
+					<div class="beian-info" style="text-align: center; font-size: 13px;">${网络备案}</div>
+				</div>
+	
+				<script>
+					function toggleTooltip(event) {
+						event.stopPropagation(); // 阻止事件冒泡
+						const tooltip = document.getElementById('infoTooltip');
+						tooltip.style.display = tooltip.style.display === 'block' ? 'none' : 'block';
+					}
+					
+					// 点击页面其他区域关闭提示框
+					document.addEventListener('click', function(event) {
+						const tooltip = document.getElementById('infoTooltip');
+						const infoIcon = document.querySelector('.info-icon');
+						
+						if (!tooltip.contains(event.target) && !infoIcon.contains(event.target)) {
+							tooltip.style.display = 'none';
+						}
+					});
+
+					function copyToClipboard() {
+						const resultInput = document.getElementById('result');
+						if (!resultInput.value) {
+							return;
+						}
+						
+						resultInput.select();
+						navigator.clipboard.writeText(resultInput.value).then(() => {
+							const tooltip = document.createElement('div');
+							tooltip.style.position = 'fixed';
+							tooltip.style.left = '50%';
+							tooltip.style.top = '20px';
+							tooltip.style.transform = 'translateX(-50%)';
+							tooltip.style.padding = '8px 16px';
+							tooltip.style.background = '#4361ee';
+							tooltip.style.color = 'white';
+							tooltip.style.borderRadius = '4px';
+							tooltip.style.zIndex = '1000';
+							tooltip.textContent = '已复制到剪贴板';
+							
+							document.body.appendChild(tooltip);
+							
+							setTimeout(() => {
+								document.body.removeChild(tooltip);
+							}, 2000);
+						}).catch(err => {
+							alert('复制失败，请手动复制');
+						});
+					}
+	
+					function generateLink() {
+						const link = document.getElementById('link').value;
+						if (!link) {
+							alert('请输入节点链接');
+							return;
+						}
+						
+						let uuidType = 'uuid';
+						const isTrojan = link.startsWith(\`\${atob('dHJvamFuOi8v')}\`);
+						if (isTrojan) uuidType = 'password';
+						let subLink = '';
+						try {
+							const isVMess = link.startsWith('vmess://');
+							if (isVMess){
+								const vmessLink = link.split('vmess://')[1];
+								const vmessJson = JSON.parse(atob(vmessLink));
+								
+								const host = vmessJson.host;
+								const uuid = vmessJson.id;
+								const path = vmessJson.path || '/';
+								const sni = vmessJson.sni || host;
+								const type = vmessJson.type || 'none';
+								const alpn = vmessJson.alpn || '';
+								const alterId = vmessJson.aid || 0;
+								const security = vmessJson.scy || 'auto';
+								const domain = window.location.hostname;
+								
+								subLink = \`https://\${domain}/sub?host=\${host}&uuid=\${uuid}&path=\${encodeURIComponent(path)}&sni=\${sni}&type=\${type}&alpn=\${encodeURIComponent(alpn)}&alterid=\${alterId}&security=\${security}\`;
+							} else {
+								const uuid = link.split("//")[1].split("@")[0];
+								const search = link.split("?")[1].split("#")[0];
+								const domain = window.location.hostname;
+								
+								subLink = \`https://\${domain}/sub?\${uuidType}=\${uuid}&\${search}\`;
+							}
+							document.getElementById('result').value = subLink;
+	
+							// 更新二维码
+							const qrcodeDiv = document.getElementById('qrcode');
+							qrcodeDiv.innerHTML = '';
+							new QRCode(qrcodeDiv, {
+								text: subLink,
+								width: 220, // 调整宽度
+								height: 220, // 调整高度
+								colorDark: "#4a60ea", // 二维码颜色
+								colorLight: "#ffffff", // 背景颜色
+								correctLevel: QRCode.CorrectLevel.L, // 设置纠错级别
+								scale: 1 // 调整像素颗粒度
+							});
+						} catch (error) {
+							alert('链接格式错误，请检查输入');
+						}
+					}
+				</script>
+			</body>
+			</html>
+			`;
+
+	return new Response(HTML, {
+		headers: {
+			"content-type": "text/html;charset=UTF-8",
+		},
+	});
+}
